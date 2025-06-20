@@ -1,0 +1,3100 @@
+﻿club,sum,순위
+Chelsea,391000.0,1
+Juventus,259485.0,2
+Paris SG,258580.0,3
+Man City,249052.5,4
+Man Utd,232252.5,5
+Barcelona,230412.5,6
+Inter,229755.0,7
+Arsenal,205952.5,8
+Tottenham,202872.5,9
+Real Madrid,200725.0,10
+AS Roma,197547.5,11
+Atlético Madrid,193420.0,12
+Bayern Munich,188007.5,13
+AC Milan,176003.5,14
+Liverpool,161900.0,15
+Monaco,144162.5,16
+Benfica,143735.0,17
+Bor. Dortmund,137505.0,18
+Fiorentina,135850.0,19
+Aston Villa,129425.0,20
+Marseille,125975.0,21
+Atalanta BC,125412.5,22
+RB Leipzig,123995.0,23
+Sevilla,123442.5,24
+Napoli,122790.0,25
+West Ham,122657.5,26
+Everton,118107.5,27
+Wolves,115030.0,28
+FC Porto,98955.0,29
+Olympique Lyon,97357.5,30
+Valencia,97202.5,31
+Galatasaray,93842.5,32
+Newcastle,92540.0,33
+Genoa,92200.0,34
+Brighton,88052.5,35
+Nottm Forest,87895.0,36
+Leicester,86840.0,37
+E. Frankfurt,86770.0,38
+Sassuolo,85867.5,39
+Real Betis,81370.0,40
+Southampton,80817.5,41
+Villarreal,78662.5,42
+Sporting CP,77847.5,43
+Fulham,75175.0,44
+Ajax,75165.0,45
+B. Leverkusen,74277.5,46
+Stade Rennais,74267.5,47
+Torino,72885.0,48
+VfL Wolfsburg,71820.0,49
+Fenerbahce,71362.5,50
+OGC Nice,69925.0,51
+Bournemouth,69510.0,52
+Crystal Palace,68512.5,53
+Lazio,67977.5,54
+TSG Hoffenheim,60707.5,55
+PSV Eindhoven,59127.5,56
+Besiktas,58832.5,57
+Real Sociedad,58545.0,58
+Sampdoria,57020.0,59
+Olympiacos,55045.0,60
+Bologna,53857.5,61
+Hellas Verona,53767.5,62
+Udinese,51897.5,63
+FC Schalke 04,50055.0,64
+Watford,49800.0,65
+VfB Stuttgart,48865.0,66
+Zenit S-Pb,46197.5,67
+LOSC Lille,45789.5,68
+Bor. M'gladbach,44380.0,69
+Getafe,43920.0,70
+Brentford,43422.5,71
+Leeds,43155.0,72
+Burnley,42057.5,73
+Hertha BSC,39347.5,74
+RSC Anderlecht,38752.5,75
+Club Brugge,38545.0,76
+1.FSV Mainz 05,37417.5,77
+Feyenoord,36987.5,78
+SC Braga,36127.5,79
+Espanyol,35300.0,80
+FC Augsburg,35270.0,81
+Trabzonspor,35252.5,82
+Parma,35117.5,83
+Celta de Vigo,35065.0,84
+Cagliari,34902.5,85
+Monza,34302.5,86
+Spartak Moscow,34095.0,87
+FC Empoli,33322.5,88
+Shakhtar D.,32660.0,89
+Union Berlin,31897.5,90
+Granada CF,31540.0,91
+Girona,30892.5,92
+R. Strasbourg,30575.0,93
+Norwich,30270.0,94
+Lens,30257.5,95
+SSC Napoli,29982.5,96
+Werder Bremen,29955.0,97
+Celtic,29295.0,98
+Salernitana,29100.0,99
+SC Freiburg,27927.5,100
+CSKA Moscow,27585.0,101
+FC Nantes,26967.5,102
+Sheff Utd,26172.5,103
+Stoke City,25502.5,104
+RCD Mallorca,24377.5,105
+KRC Genk,24285.0,106
+Basaksehir,24205.0,107
+Rangers,24092.6,108
+Stade Reims,23577.5,109
+RB Salzburg,23137.5,110
+Saint-Étienne,23062.5,111
+PAOK Salonika,23035.0,112
+Swansea,22925.0,113
+FC Lorient,22702.5,114
+UD Almería,22370.0,115
+Real Valladolid,22192.5,116
+Alavés,22150.0,117
+Standard Liège,21817.5,118
+Dynamo Kyiv,21275.0,119
+Rayo Vallecano,20995.0,120
+FC Copenhagen,20750.0,121
+Ipswich,20697.5,122
+Athletic,20695.0,123
+Royal Antwerp,20292.5,124
+Stade Brestois,20080.0,125
+Rubin Kazan,19886.0,126
+Krasnodar,19795.0,127
+1.FC Köln,19623.5,128
+Lecce,19235.0,129
+KAA Gent,18910.0,130
+G. Bordeaux,18740.0,131
+Udinese Calcio,18520.0,132
+CD Leganés,18405.0,133
+Panathinaikos,18307.5,134
+Montpellier,18085.0,135
+UD Las Palmas,17775.0,136
+Troyes,17705.0,137
+Toulouse,17620.0,138
+Rostov,17325.0,139
+Loko Moscow,17062.5,140
+CA Osasuna,16832.5,141
+West Brom,16827.5,142
+Middlesbrough,16557.5,143
+AZ Alkmaar,16367.5,144
+Hamburger SV,16305.0,145
+Como,16260.0,146
+FC Utrecht,15692.5,147
+Hull City,15610.0,148
+FC Basel,15277.5,149
+Al-Nassr,14680.0,150
+Botafogo,14382.5,151
+Spezia Calcio,14350.0,152
+Dynamo Moscow,14282.5,153
+AEK Athens,14247.5,154
+SPAL,14237.5,155
+Sunderland,14150.0,156
+River Plate,14052.5,157
+Cardiff,14005.0,158
+Twente,13707.5,159
+Famalicão,13607.5,160
+FC Metz,13345.0,161
+FC Midtjylland,13317.5,162
+Huddersfield,13247.5,163
+Al-Ahli,13010.0,164
+Palmeiras,12710.0,165
+Vitesse,12625.0,166
+Angers SCO,12492.5,167
+Union SG,12190.0,168
+Cagliari Calcio,12190.0,168
+Cádiz CF,12157.5,170
+Venezia,12080.0,171
+Alanyaspor,12050.0,172
+Frosinone,12050.0,172
+Kasimpasa,11980.0,174
+Luton,11912.5,175
+Levante,11855.0,176
+Vit. Guimarães,11695.0,177
+Adana Demirspor,11465.0,178
+VfL Bochum,11415.0,179
+Al-Ittihad,11200.0,180
+F. Düsseldorf,11087.5,181
+Dinamo Moscow,11075.0,182
+C. Rizespor,10827.5,183
+Rio Ave,10655.0,184
+Dinamo Zagreb,10650.0,185
+Elche CF,10580.0,186
+OH Leuven,10342.5,187
+Boca Juniors,10135.0,188
+KV Kortrijk,10035.0,189
+R Charleroi SC,10010.0,190
+Al-Hilal,9985.0,191
+Flamengo,9790.0,192
+Málaga CF,9430.0,193
+KS Samara,9282.5,194
+Konyaspor,9252.5,195
+QPR,9245.0,196
+Corinthians,9237.5,197
+AJ Auxerre,9030.0,198
+Dep. La Coruña,8920.0,199
+Gaziantep FK,8855.0,200
+KVC Westerlo,8715.0,201
+Karagümrük,8532.5,202
+Amiens SC,8505.0,203
+Le Havre AC,8460.0,204
+Atlético-MG,8415.0,205
+Antalyaspor,8362.5,206
+Heerenveen,8352.5,207
+Brescia,8267.5,208
+Estoril Praia,8170.0,209
+Aris Saloniki,8112.5,210
+SD Huesca,7985.0,211
+Cercle Brugge,7972.5,212
+SD Eibar,7775.0,213
+FC Groningen,7620.0,214
+Ankaragücü,7555.0,215
+Bröndby IF,7535.0,216
+Pescara,7517.5,217
+Sochi,7442.5,218
+Sint-Truiden,7342.5,219
+Crotone,7270.0,220
+Anzhi,7122.5,221
+Blackburn,7097.5,222
+Fortuna Sittard,7097.5,222
+RM Castilla,7090.0,224
+Boavista,7077.5,225
+BSC Young Boys,7015.0,226
+RWDM,6967.5,227
+Red Star,6935.0,228
+Sivasspor,6935.0,228
+Hajduk Split,6880.0,230
+Reading,6807.5,231
+Göztepe,6785.0,232
+NEC Nijmegen,6712.5,233
+KV Mechelen,6630.0,234
+Birmingham,6585.0,235
+Clermont Foot,6585.0,235
+Fluminense,6535.0,237
+Hannover 96,6497.5,238
+Eyüpspor,6485.0,239
+Internacional,6405.0,240
+Akhmat Grozny,6335.0,241
+Cremonese,6197.5,242
+FC St. Pauli,6095.0,243
+Arm. Bielefeld,6082.5,244
+Arouca,6047.5,245
+Hatayspor,6004.5,246
+Nordsjaelland,5982.5,247
+Kayserispor,5956.0,248
+Chievo Verona,5937.5,249
+Dijon,5872.5,250
+Wigan,5872.5,250
+GZ Evergrande,5850.0,252
+Samsunspor,5797.5,253
+Al-Ettifaq,5737.5,254
+São Paulo,5720.0,255
+Slavia Prague,5700.0,256
+Portimonense,5687.5,257
+Zulte Waregem,5670.0,258
+Gil Vicente,5550.0,259
+Cruzeiro,5420.0,260
+Hibernian,5324.5,261
+Khimki,5322.5,262
+Sparta R.,5200.0,263
+Aberdeen,5192.5,264
+PEC Zwolle,5157.5,265
+Benevento,5155.0,266
+Vasco da Gama,5152.5,267
+Sparta Prague,5122.5,268
+Sporting Gijón,5090.0,269
+Lommel SK,5042.5,270
+SM Caen,5005.0,271
+Heidenheim,4980.0,272
+Santos,4855.0,273
+Partizan,4835.0,274
+BJ Guoan,4820.0,275
+DL Yifang,4800.0,276
+SH Shenhua,4790.0,277
+Willem,4775.0,278
+Grêmio,4730.0,279
+KV Oostende,4727.5,280
+Sturm Graz,4670.0,281
+Moreirense,4665.0,282
+Santa Clara,4655.0,283
+Preston,4615.0,284
+Zorya Lugansk,4565.0,285
+Orenburg,4550.0,286
+Darmstadt 98,4527.5,287
+Ural,4495.0,288
+EC Bahia,4455.0,289
+Monterrey,4390.0,290
+Nacional,4355.0,291
+Sheff Wed,4315.0,292
+Atromitos,4270.0,293
+Atlanta,4245.0,294
+Legia Warszawa,4232.5,295
+Karpaty Lviv,4205.0,296
+OFI Crete,4197.5,297
+Heracles Almelo,4147.5,298
+Holstein Kiel,4120.0,299
+CD Mirandés,4117.5,300
+Derby,4100.0,301
+Pendikspor,4022.5,302
+Bristol City,4022.5,302
+Paços Ferreira,4017.5,304
+1.FC Nuremberg,4010.0,305
+Millwall,3900.0,306
+NAC Breda,3812.5,307
+Charlton,3795.0,308
+Rapid Vienna,3792.5,309
+KAS Eupen,3753.5,310
+New York City,3750.0,311
+Pari NN,3732.5,312
+Nîmes Olympique,3730.0,313
+Heart of Midl.,3695.0,314
+RB Bragantino,3687.5,315
+Ferencváros,3677.5,316
+Polissya,3650.0,317
+Arsenal Tula,3607.5,318
+Farense,3585.0,319
+Cesena,3572.5,320
+Bari,3560.0,321
+Aarhus GF,3527.5,322
+Ascoli,3512.5,323
+SH SIPG,3500.0,324
+Lausanne-Sport,3492.5,325
+Malmö FF,3482.5,326
+Sporting,3477.5,327
+Excelsior,3460.0,328
+Real Zaragoza,3440.0,329
+Greuther Fürth,3412.5,330
+Vejle BK,3412.5,330
+Lech Poznan,3267.5,332
+Al-Duhail SC,3252.5,333
+Grasshoppers,3227.5,334
+Chaves,3227.5,334
+Guingamp,3182.5,336
+Baltika,3182.5,336
+Miami,3150.0,338
+Vorskla Poltava,3147.5,339
+Al-Shabab,3130.0,340
+CA Talleres,3070.0,341
+Chornomorets,3070.0,341
+Shakhtar,3065.0,343
+Charlotte,3052.5,344
+DL Pro,3050.0,345
+Odense BK,3042.5,346
+Volos NPS,3017.5,347
+US Palermo,3000.0,348
+Bolton,2980.0,349
+Empoli,2960.0,350
+Bursaspor,2947.5,351
+Panetolikos,2925.0,352
+Casa Pia,2920.0,353
+Asteras Tripoli,2912.5,354
+Kolos Kovalivka,2910.0,355
+Palermo,2907.5,356
+Independiente,2892.5,357
+Pisa,2880.0,358
+Beerschot VA,2872.5,359
+HNK Rijeka,2852.5,360
+Braga,2852.5,360
+Almere City,2845.0,362
+Sharjah,2840.0,363
+Blackpool,2792.5,364
+Vizela,2785.0,365
+RKC Waalwijk,2777.5,366
+Go Ahead Eagles,2757.5,367
+Viborg FF,2698.5,368
+San Lorenzo,2685.0,369
+M. Tel Aviv,2665.0,370
+Tondela,2647.5,371
+Randers,2620.0,372
+SC Paderborn,2612.5,373
+América,2590.0,374
+FC Ingolstadt,2577.5,375
+Bodrum FK,2567.5,376
+FC Oleksandriya,2562.5,377
+Racing Club,2530.0,378
+Aalborg BK,2507.5,379
+Barnsley,2482.5,380
+Athletico-PR,2475.0,381
+Vélez Sarsfield,2475.0,381
+Marítimo,2455.0,383
+FC Sochaux,2452.5,384
+Ufa,2437.5,385
+Lyngby BK,2432.5,386
+SC Dnipro-1,2407.5,387
+SZ,2400.0,388
+St. Johnstone,2392.5,389
+Panserraikos,2387.5,390
+St. Mirren,2365.0,391
+Perugia,2362.5,392
+Kilmarnock,2360.0,393
+Metalist Kharkiv,2357.5,394
+Colorado,2350.0,395
+Motherwell,2342.5,396
+Maccabi Haifa,2315.0,397
+PAS Lamia,2315.0,397
+Coventry,2300.0,399
+Al-Qadsiah,2300.0,399
+Reggina,2285.0,401
+Tigre,2280.0,402
+Dallas,2250.0,403
+Tigres UANL,2250.0,403
+San Diego,2242.5,405
+Istanbulspor,2230.0,406
+Huracán,2227.5,407
+Mouscron,2222.5,408
+LASK,2222.5,408
+AC Siena,2215.0,410
+Toluca,2197.5,411
+Ludogorets,2195.0,412
+SK Dnipro-1,2195.0,412
+Dinamo Batumi,2172.5,414
+Chicago,2155.0,415
+B SAD,2145.0,416
+New York,2127.5,417
+Vitória Setúbal,2117.5,418
+Austria Vienna,2110.0,419
+Al-Gharafa,2100.0,420
+Kryvbas,2092.5,421
+FC Bayern,2090.0,422
+Fakel Voronezh,2082.5,423
+Dundee United,2080.0,424
+Ross County,2070.0,425
+Maldonado,2067.5,426
+Dundee,2065.0,427
+Albacete,2052.5,428
+Genclerbirligi,2042.5,429
+FC St. Gallen,2030.0,430
+Y. Malatyaspor,2005.0,431
+TJ Quanjian,2000.0,432
+Giresunspor,1992.5,433
+Waasland-Beveren,1962.5,434
+Lanús,1960.0,435
+Apol. Limassol,1960.0,435
+Avs FS,1957.5,437
+CD Lugo,1955.0,438
+ADO Den Haag,1955.0,438
+LNZ Cherkasy,1942.5,440
+Silkeborg IF,1937.5,441
+Real Oviedo,1937.5,441
+Argentinos Jrs.,1910.0,443
+Valenciennes,1900.0,444
+SC Bastia,1892.5,445
+Coimbra,1892.5,445
+Carpi,1887.5,447
+FC Zürich,1870.0,448
+AIK,1849.0,449
+CD Cruz Azul,1840.0,450
+Coritiba,1837.5,451
+Milan,1787.5,452
+PAS Giannina,1787.5,452
+Akron Togliatti,1770.0,454
+NK Osijek,1762.5,455
+Metalist,1755.0,456
+Racing,1750.0,457
+LAFC,1750.0,457
+Urawa Reds,1735.0,459
+MK Dons,1730.0,460
+Rukh Lviv,1716.0,461
+1.FC K'lautern,1697.5,462
+Estrela Amadora,1691.0,463
+Ternana,1687.5,464
+CSKA-Sofia,1665.0,465
+Juve Next Gen,1662.5,466
+Barça Atlètic,1660.0,467
+CD Tenerife,1660.0,467
+Al-Rayyan SC,1650.0,469
+Rosario Central,1645.0,470
+Rotherham,1640.0,471
+Zenit 2 S-Pb,1640.0,471
+Paris,1632.5,473
+Terek Grozny,1630.0,474
+Pachuca,1620.0,475
+FCV Dender EH,1615.0,476
+APOEL Nicosia,1602.5,477
+AC Ajaccio,1600.0,478
+APO Levadiakos,1595.0,479
+Al-Nasr,1590.0,480
+Metalist 1925,1573.5,481
+Cincinnati,1550.0,482
+Dnipro,1540.0,483
+América-MG,1537.5,484
+Newell's,1537.5,484
+Los Angeles,1530.0,486
+Plymouth,1515.0,487
+Orlando,1510.0,488
+FC Volendam,1510.0,488
+Rosenborg,1507.5,490
+Estudiantes LP,1495.0,491
+Desna,1477.5,492
+UNAM Pumas,1475.0,493
+Gaziantepspor,1475.0,493
+Veres Rivne,1452.5,495
+Djurgården,1450.0,496
+Philadelphia,1435.0,497
+Raków,1420.0,498
+AE Kifisias,1417.5,499
+Panionios,1412.5,500
+Al-Sadd,1410.0,501
+PSV,1400.0,502
+Al-Riyadh,1380.0,503
+Roda JC,1375.0,504
+Servette,1375.0,504
+Enisey,1360.0,506
+D.C. United,1360.0,506
+Sönderjyske,1360.0,506
+FC Sion,1347.5,509
+Tom Tomsk,1340.0,510
+Häcken,1340.0,510
+Belenenses,1340.0,510
+SC Cambuur,1335.0,513
+Anorthosis,1327.5,514
+Dunajska Streda,1322.5,515
+Livingston,1320.0,516
+Ceará SC,1320.0,516
+Córdoba CF,1315.0,518
+AS Livorno,1312.5,519
+Al-Wahda,1305.0,520
+AS Nancy,1305.0,520
+Tambov,1287.5,522
+Villarreal CF,1285.0,523
+Peñarol,1280.0,524
+Godoy Cruz,1277.5,525
+FC Cartagena,1260.0,526
+FK Mariupol,1250.0,527
+Bodø/Glimt,1245.0,528
+B. Dortmund,1245.0,528
+SV Sandhausen,1227.5,530
+Qarabag FK,1210.0,531
+Career break,1195.0,532
+Górnik Zabrze,1192.5,533
+Padova,1182.5,534
+Al-Rayyan,1180.0,535
+Viktoria Plzen,1180.0,535
+FC Luzern,1172.5,537
+FC Astana,1170.0,538
+VVV-Venlo,1167.5,539
+Virtus Lanciano,1165.0,540
+Norrköping,1162.5,541
+Feirense,1160.0,542
+Yokohama F. M.,1160.0,542
+WH Three Towns,1160.0,542
+Al-Ain,1150.0,545
+FC Seoul,1140.0,546
+Vojvodina,1132.5,547
+Ponferradina,1130.0,548
+Slo. Bratislava,1110.0,549
+Dynamo Dresden,1105.0,550
+Al-Fayha,1085.0,551
+Oxford United,1077.5,552
+Colon,1075.0,553
+Atl. Madrid,1070.0,554
+Al-Raed,1070.0,554
+CF Estrela,1067.5,556
+Boston River,1065.0,557
+Doncaster,1065.0,557
+Cosenza,1045.0,559
+NK Lokomotiva,1042.5,560
+Nizhny Novgorod,1040.0,561
+Banfield,1035.0,562
+Osmanlispor,1025.0,563
+Radomiak,1022.5,564
+EC Vitória,1020.0,565
+H. Beer Sheva,1017.5,566
+Karlsruher SC,1017.5,566
+AE Larisa,1007.5,568
+León,1000.0,569
+Fortaleza,995.0,570
+FC Andorra,990.0,571
+Krasnodar 2,987.5,572
+FC Dinamo,980.0,573
+Gimnasia,977.5,574
+Novara,977.5,574
+Salt Lake,972.5,576
+Al-Wehda,970.0,577
+Kocaelispor,967.5,578
+AC Horsens,967.5,578
+Burton Albion,960.0,580
+Minnesota,955.0,581
+Desportivo Aves,952.5,582
+Esbjerg fB,947.5,583
+HNK Gorica,945.0,584
+Umm Salal SC,945.0,584
+Ümraniyespor,942.5,586
+Dinamo Makhach.,940.0,587
+FC Liefering,935.0,588
+Tombense,935.0,588
+Sport Recife,930.0,590
+Denizlispor,927.5,591
+IFK Göteborg,920.0,592
+Molde FK,915.0,593
+FC Dordrecht,915.0,593
+Slaven Belupo,902.5,595
+Adanaspor,902.5,595
+Lechia Gdansk,900.0,597
+Columbus,900.0,597
+Ionikos Nikeas,895.0,599
+Rotor Volgograd,895.0,599
+Ittihad Kalba,890.0,601
+Pafos,875.0,602
+Lierse SK,870.0,603
+Chivas,870.0,603
+Arsenal Kyiv,867.5,605
+De Graafschap,857.5,606
+E. Braunschweig,850.0,607
+Catania,847.5,608
+Portsmouth,845.0,609
+Vålerenga,842.5,610
+LB Châteauroux,837.5,611
+Kallithea,835.0,612
+Júbilo Iwata,832.5,613
+Akhisar Belediye,825.0,614
+Wycombe,825.0,614
+Pogon Szczecin,822.5,616
+RFC Seraing,822.5,616
+Khor Fakkan,820.0,618
+LR Vicenza,817.5,619
+SCR Altach,812.5,620
+Asteras Aktor,812.5,620
+FC Juárez,810.0,622
+Santos Laguna,810.0,622
+Virtus Entella,810.0,622
+Olimpik Donetsk,807.5,625
+Zamalek,805.0,626
+Leixões,802.5,627
+Al-Sadd SC,800.0,628
+FC Emmen,795.0,629
+Lincoln City,795.0,629
+Spartak 2,792.5,631
+Trapani,790.0,632
+SV Elversberg,790.0,632
+Obolon,790.0,632
+Elfsborg,787.5,635
+Pau,785.0,636
+Al-Markhiya SC,785.0,636
+Cuiabá-MT,785.0,636
+Manisa FK,780.0,639
+Hansa Rostock,780.0,639
+Évian,780.0,639
+Rodina Moscow,780.0,639
+FC Lugano,777.5,643
+Modena,777.5,643
+Slovan Liberec,772.5,645
+Ingulets,768.5,646
+Tosno,765.0,647
+Gimnàstic,760.0,648
+Dinamo Tbilisi,755.0,649
+Aalesund,752.5,650
+Apollon Smyrnis,752.5,650
+Montréal,750.0,652
+Lekhwiya SC,750.0,652
+Botev Plovdiv,750.0,652
+Port Vale,750.0,652
+AC Pisa,747.5,656
+Hammarby,745.0,657
+Quevilly Rouen,745.0,657
+Al-Khaleej,745.0,657
+Loko Moskau,740.0,660
+Defensa,740.0,660
+G. Ajaccio,732.5,662
+Vancouver,732.5,662
+Aldosivi,732.5,662
+SKA Khabarovsk,730.0,665
+CFR Cluj,730.0,665
+FCSB,730.0,665
+Gamba Osaka,730.0,665
+Al-Fateh,730.0,665
+Torpedo Moskau,727.5,670
+Wisla Kraków,725.0,671
+Al-Hazem,720.0,672
+Wehen Wiesbaden,720.0,672
+Stade Lavallois,710.0,674
+Karabükspor,710.0,674
+Beerschot V.A.,710.0,674
+Bilbao Athletic,710.0,674
+FK Oleksandriya,705.0,678
+NK Istra,705.0,678
+Scunthorpe Utd.,705.0,678
+Stade-Lausanne,702.5,681
+Atl. Nacional,700.0,682
+Palace,700.0,682
+Pyramids,700.0,682
+Avellino,697.5,685
+Necaxa,695.0,686
+Fehérvár,695.0,686
+CD América,687.5,688
+AD Alcorcón,685.0,689
+FC Sheriff,685.0,689
+Amkar Perm,682.5,691
+Peterborough,682.5,691
+1.FC Magdeburg,680.0,693
+Sarpsborg 08,677.5,694
+KSC Lokeren,675.0,695
+Fleetwood,672.5,696
+Houston,670.0,697
+1860 Munich,667.5,698
+Al-Faisaly,665.0,699
+Melbourne City,662.5,700
+Riga,660.0,701
+AEL Limassol,652.5,702
+TJ Teda,650.0,703
+Cittadella,650.0,703
+Deportivo Cali,650.0,703
+Club Tijuana,645.0,706
+PFC Lviv,645.0,706
+MSV Duisburg,645.0,706
+Yverdon Sport,645.0,706
+Atalanta,642.5,710
+K. Erciyesspor,640.0,711
+Portland,640.0,711
+Ferroviária,640.0,711
+Forest Green,640.0,711
+Mlada Boleslav,630.0,715
+FK Minaj,627.5,716
+IMT Belgrad,625.0,717
+Din. Zagreb,625.0,717
+Partick Thistle,625.0,717
+BATE Borisov,622.5,720
+Nagoya Grampus,620.0,721
+Sakaryaspor,618.5,722
+Videoton,617.5,723
+LA Galaxy,617.5,723
+Osmanlispor FK,615.0,725
+Zaglebie Lubin,615.0,725
+Tobol Kostanay,612.5,727
+Guarani,610.0,728
+CF Fuenlabrada,610.0,728
+BB Erzurumspor,607.5,730
+Reggiana,607.5,730
+Qatar SC,607.5,730
+Miedz Legnica,605.0,733
+Omonia Nikosia,605.0,733
+FSV Mainz 05,602.5,735
+Caracas,602.5,735
+MC Algiers,600.0,737
+WH Zall,600.0,737
+Al-Wakrah SC,600.0,737
+Bandirmaspor,597.5,740
+Alcorcón,595.0,741
+Volyn Lutsk,595.0,741
+St. Louis CITY,595.0,741
+NK Olimpija,590.0,744
+Wolfsberger AC,585.0,745
+Arka Gdynia,585.0,745
+Wrexham,585.0,745
+Juventude,580.0,748
+Al-Gharafa SC,580.0,748
+CD Numancia,580.0,748
+Stuttgart,575.0,751
+Strømsgodset,575.0,751
+Eskisehirspor,572.5,753
+Hapoel Tel Aviv,572.5,753
+UD Ibiza,570.0,755
+Erzgebirge Aue,570.0,755
+Al-Wasl,570.0,755
+Kawasaki Front.,567.5,758
+Millonarios,565.0,759
+Esteghlal,565.0,759
+SK Beveren,565.0,759
+Újpest,565.0,759
+Ponte Preta,565.0,759
+Burgos CF,565.0,759
+Debrecen,560.0,765
+Rodez AF,560.0,765
+Levski Sofia,555.0,767
+Austin,555.0,767
+Mafra,552.5,769
+Chamois Niort,550.0,770
+Aris Limassol,550.0,770
+Querétaro,550.0,770
+Damac,550.0,770
+Hvidovre,547.5,774
+USL Dunkerque,545.0,775
+Tuzlaspor,545.0,775
+Bradford,540.0,777
+Kashiwa Reysol,540.0,777
+Illichivets,540.0,777
+Jagiellonia,537.5,780
+Warta Poznan,535.0,781
+El Ahly,530.0,782
+Exeter City,527.5,783
+Volgar,527.5,783
+NK Maribor,525.0,785
+Celta Vigo,522.5,786
+Vicenza,520.0,787
+B. Jerusalem,517.5,788
+Stockport,515.0,789
+Viking,512.5,790
+Goiás,512.5,790
+Crewe Alexandra,512.5,790
+Wydad AC,510.0,793
+Al-Sailiya SC,510.0,793
+Oldham Athletic,510.0,793
+SJ Earthquakes,507.5,796
+Südtirol,507.5,796
+Criciúma EC,505.0,798
+Vila Nova,505.0,798
+MVV Maastricht,505.0,798
+Guimarães,502.5,801
+Três Passos,500.0,802
+Al-Jazira,500.0,802
+Torpedo Moscow,500.0,802
+Atlas,500.0,802
+Cukaricki,500.0,802
+Akhisarspor,497.5,807
+Varzim,495.0,808
+GZ H. Zhicheng,495.0,808
+FC Tokyo,495.0,808
+Lillestrøm,492.5,811
+Swindon Town,492.0,812
+Shimizu S-Pulse,490.0,813
+Dinamo Minsk,490.0,813
+Yeovil Town,487.5,815
+Atlético-GO,485.0,816
+Omonia Nicosia,485.0,816
+Northampton,485.0,816
+Soligorsk,482.5,819
+A. Lustenau,477.5,820
+Arda Kardzhali,477.5,820
+Betis Deportivo,472.5,822
+Chaika Pes.,472.5,822
+Shrewsbury,472.5,822
+Steaua Bucharest,470.0,825
+Ohod Club,470.0,825
+Latina Calcio,470.0,825
+Jablonec,467.5,828
+J. Regensburg,465.0,829
+Alania Vl.,462.5,830
+VfL Osnabrück,460.0,831
+New England,460.0,831
+Yokohama,460.0,831
+HJK Helsinki,455.0,834
+Avispa Fukuoka,455.0,834
+R. Majadahonda,455.0,834
+Neftekhimik,450.0,837
+La Calera,450.0,837
+Mazatlán,450.0,837
+U. de Chile,450.0,837
+Bristol Rovers,450.0,837
+Kalmar FF,447.5,842
+Pordenone,447.5,842
+Haugesund,445.0,844
+Brann,445.0,844
+CA Torque,442.5,846
+Cerro Porteño,440.0,847
+SH Port,440.0,847
+Helsingborgs IF,440.0,847
+SD Amorebieta,440.0,847
+FC Ashdod,437.5,851
+Granada,435.0,852
+Catanzaro,432.5,853
+Olhanense,432.5,853
+Kairat Almaty,430.0,855
+NK Celje,427.5,856
+FK TSC,425.0,857
+Loko-Kazanka M.,425.0,857
+Altinordu,422.5,859
+CS U Craiova,420.0,860
+1461 Trabzon,420.0,860
+Leyton Orient,412.5,862
+Al-Bataeh CSC,410.0,863
+Tours,410.0,863
+Pro Vercelli,405.0,865
+Iraklis,402.5,866
+Kano Pillars,400.0,867
+Dunfermline A.,400.0,867
+Hércules CF,400.0,867
+FC Fredericia,397.5,870
+Sepahan,397.5,870
+Notts County,397.5,870
+Bolívar,395.0,873
+Shabab Al-Ahli,395.0,873
+AFC Wimbledon,395.0,873
+Reus Deportiu,395.0,873
+Kashima Antlers,395.0,873
+Lecco,390.0,878
+Ordabasy,390.0,878
+Maccabi Netanya,390.0,878
+FC Aarau,387.5,881
+HB CFFC,385.0,882
+Vendsyssel FF,380.0,883
+Paradou AC,380.0,883
+Feralpisalò,377.5,885
+HamKam,377.5,885
+Slask Wroclaw,375.0,887
+Unión Santa Fe,372.5,888
+Recr. Huelva,370.0,889
+Kansas City,370.0,889
+Western Sydney,370.0,889
+Al-Shahania SC,370.0,889
+Platanias,365.0,893
+Machida Zelvia,365.0,893
+Sevilla Atl.,362.5,895
+Raith Rovers,361.4,896
+UD Logroñés,360.0,897
+Radnicki Nis,355.0,898
+Matsumoto Yama.,355.0,898
+Beira-Mar,355.0,898
+C.R.D. Libolo,350.0,901
+CS Sedan,350.0,901
+Spartak,347.5,903
+U. Católica,347.5,903
+Eldense,345.0,905
+Metalurg D.,345.0,905
+FC Den Bosch,345.0,905
+Kuban Krasnodar,345.0,905
+FC Baniyas,345.0,905
+Belgrano,342.5,910
+AEK Larnaca,342.5,910
+Valmiera,342.5,910
+Recre Granada,340.0,913
+Platense,337.5,914
+Inverness CT,335.0,915
+Carlisle United,335.0,915
+Ergotelis,335.0,915
+Persepolis,335.0,915
+AO Xanthi,335.0,915
+Boluspor,332.5,920
+Leiria,332.5,920
+CyD Leonesa,330.0,922
+Al-Ahli SC,330.0,922
+San Luis,325.0,924
+Sabah FK,325.0,924
+Morecambe,322.5,926
+FC Eindhoven,322.5,926
+FK Sarajevo,322.5,926
+Cracovia,322.5,926
+Livyi Bereg,320.0,930
+Vidi,320.0,930
+Tractor Sazi,320.0,930
+Stal D.,317.5,933
+A. Keciörengücü,317.5,933
+Racing Ferrol,315.0,935
+CS Emelec,315.0,935
+Avaí,315.0,935
+Olimpia,315.0,935
+FC Minaj,313.5,939
+Utrecht,312.5,940
+RSCA Futures,310.0,941
+Igdir FK,310.0,941
+Columbus Crew,310.0,941
+Rochdale,310.0,941
+TOP Oss,310.0,941
+Inter Zapresic,310.0,941
+Milan Futuro,307.5,947
+Real Murcia,305.0,948
+Ayr United,305.0,948
+Jeonbuk Hyundai,305.0,948
+Osasuna,305.0,948
+UC AlbinoLeffe,302.5,952
+Dynamo Brest,302.5,952
+TSV Hartberg,302.5,952
+Colchester Utd.,302.5,952
+Al-Taawoun,302.5,952
+Al-Arabi SC,300.0,957
+Alania,300.0,957
+SC Covilhã,300.0,957
+São Bernardo,300.0,957
+Zrinjski Mostar,300.0,957
+CR Belouizdad,300.0,957
+Triestina,300.0,957
+Ban,297.5,964
+A. Klagenfurt,297.5,964
+Mantova,295.0,966
+Salford,295.0,966
+Água Santa-SP,295.0,966
+Dynamo M,292.5,969
+Avangard Kursk,292.5,969
+Novorizontino,292.5,969
+SKA-Energia,292.5,969
+Ajman Club,290.0,973
+SV Ried,290.0,973
+Londrina-PR,290.0,973
+M. Petah Tikva,290.0,973
+Al-Khor SC,290.0,973
+HNK Sibenik,287.5,978
+Mezőkövesd,285.0,979
+Tranmere Rovers,282.5,980
+Atlético-PR,282.5,980
+Zenit,282.5,980
+FC Viitorul,282.5,980
+União Madeira,282.5,980
+Defensor SC,280.0,985
+Odd,280.0,985
+Torpedo Kutaisi,280.0,985
+Stabæk,280.0,985
+Tokyo Verdy,277.5,989
+Pakhtakor,275.0,990
+U Cluj,275.0,990
+US Orléans,275.0,990
+Club NXT,275.0,990
+Aktobe,275.0,990
+Sanliurfaspor,275.0,990
+Telstar,272.5,996
+Cheltenham,272.5,996
+Vilafranquense,272.5,996
+LC Sailors,271.0,999
+Vitoria-SP,270.0,1000
+Bury,270.0,1000
+Patronato,270.0,1000
+KSK Lierse Kem.,270.0,1000
+Boro,267.5,1004
+Roma,267.5,1004
+Puskás AFC,267.5,1004
+LDU Quito,265.0,1007
+Kyoto Sanga,265.0,1007
+FC Dila,265.0,1007
+SL16,262.5,1010
+Sydney,262.5,1010
+Hamilton Acad.,261.3,1012
+FSV Frankfurt,260.0,1013
+Banik Ostrava,260.0,1013
+Once Caldas,260.0,1013
+AC Arles-Avignon,260.0,1013
+Crown Legacy,260.0,1013
+Luqueño,260.0,1013
+Falkirk,260.0,1013
+Académico Viseu,260.0,1013
+FCI Levadia,257.5,1021
+Monte Azul,255.0,1022
+Atlético CP,255.0,1022
+Le Mans,255.0,1022
+NK Varazdin,252.5,1025
+Dynamo-2 Kyiv,252.5,1025
+Al-Adalah,250.0,1027
+Liaoning,250.0,1027
+PFK Lviv,250.0,1027
+CRB,250.0,1027
+Mirassol-SP,250.0,1027
+Walsall,250.0,1027
+Grenoble,250.0,1027
+Degerfors,250.0,1027
+Atl. Tucumán,250.0,1027
+GZ R&F,250.0,1027
+Bukovyna,250.0,1027
+Hacettepe,245.0,1038
+Patro Eisden,245.0,1038
+Extremadura,245.0,1038
+Nashville,240.0,1041
+Atl. Rafaela,240.0,1041
+Getafe CF,240.0,1041
+Castellón,240.0,1041
+Sagan Tosu,240.0,1041
+Foggia,240.0,1041
+Colo-Colo,237.5,1047
+PAE Chania,237.5,1047
+Herediano,237.5,1047
+KSV Roeselare,235.0,1050
+Mumbai City,235.0,1050
+SC Verl,232.5,1052
+Pardubice,232.5,1052
+Goverla,230.0,1054
+Kalba,230.0,1054
+Al-Shamal SC,230.0,1054
+Bohemians 1905,230.0,1054
+Ulsan Hyundai,230.0,1054
+Al-Batin,230.0,1054
+Anápolis,227.5,1060
+PAOK Saloniki,227.5,1060
+KamAZ,227.5,1060
+Petrolul,225.0,1063
+Toronto,225.0,1063
+QD West Coast,225.0,1063
+Spartak Trnava,225.0,1063
+Morton,225.0,1063
+Penafiel,222.5,1068
+KMSK Deinze,222.5,1068
+Stal Mielec,222.5,1068
+Brommapojkarna,222.5,1068
+AS Avellino,222.5,1068
+Hobro IK,220.0,1073
+Stal Kamyanske,220.0,1073
+Chapecoense,220.0,1073
+DFK Dainava,217.5,1076
+Shinnik Yaroslav,217.5,1076
+Torreense,217.5,1076
+Juve Stabia,215.0,1079
+Nottingham,215.0,1079
+Anderlecht,215.0,1079
+Morelia,215.0,1079
+PAE Veria,215.0,1079
+Widzew Lodz,215.0,1079
+MSK Zilina,212.5,1085
+Gillingham,212.5,1085
+Pistoiese,210.0,1087
+Niki Volou,210.0,1087
+El Mokawloon,210.0,1087
+Elazigspor,210.0,1087
+CA Fénix,210.0,1087
+Kolkheti Poti,210.0,1087
+Arsenal Sarandí,210.0,1087
+Abha,210.0,1087
+Mjällby AIF,207.5,1095
+Mordovia,205.0,1096
+Karmiotissa,205.0,1096
+Girnyk-Sport,205.0,1096
+Madureira,205.0,1096
+Dynamo 2,202.5,1100
+Altay SK,202.5,1100
+FC Helsingör,202.5,1100
+WH Yangtze,200.0,1103
+Stevenage,200.0,1103
+Tema,200.0,1103
+Carrarese,200.0,1103
+RE Virton,200.0,1103
+Yelimay,200.0,1103
+GZ Hengfeng,200.0,1103
+Rennes,197.5,1110
+CSKA 1948,197.5,1110
+Novi Pazar,197.5,1110
+Fremad Amager,197.5,1110
+Portland 2,197.5,1110
+São Caetano,195.0,1115
+Kristiansund,195.0,1115
+Honvéd,195.0,1115
+Värnamo,195.0,1115
+AS Trencin,195.0,1115
+Napredak,195.0,1115
+Crawley Town,192.5,1121
+Estoril,192.5,1121
+Olympiakos N.,192.5,1121
+FC Hermannstadt,192.5,1121
+Nea Salamis,192.5,1121
+FC Noah,190.0,1126
+Operário-PR,190.0,1126
+FC Rapid,190.0,1126
+Gaziantep BB,190.0,1126
+Uni. Católica,190.0,1126
+WSG Tirol,190.0,1126
+Alvarenga,187.5,1132
+Diósgyőr,185.0,1133
+Cambridge Utd.,185.0,1133
+NK Bravo,185.0,1133
+Stoke,182.5,1136
+Central Coast,182.5,1136
+Pyunik Yerevan,180.0,1138
+RCD Espanyol,180.0,1138
+Shakhter K.,180.0,1138
+Real Unión,180.0,1138
+SZ Peng City,180.0,1138
+Barcelona SC,180.0,1138
+CSA,180.0,1138
+Energie Cottbus,180.0,1138
+Chernomorets N.,177.5,1146
+M'gladbach,177.5,1146
+KF Tirana,177.5,1146
+Sirius,177.5,1146
+PS Kalamata,177.5,1146
+NS Mura,177.0,1151
+RC Lens,175.0,1152
+Barra,175.0,1152
+Trofense,175.0,1152
+Saprissa,175.0,1152
+Amed SK,175.0,1152
+MTK Budapest,175.0,1152
+FC Roskilde,172.5,1158
+Rukh Vynnyky,172.5,1158
+Ituano,172.5,1158
+RNK Split,172.5,1158
+Shinnik,172.5,1158
+Astra Giurgiu,172.5,1158
+Chennaiyin,170.0,1164
+TZ Yuanda,170.0,1164
+Chievo,170.0,1164
+Bnei Sakhnin,170.0,1164
+Östersund,170.0,1164
+Prato,170.0,1164
+FC Urartu,170.0,1164
+Pr. Münster,170.0,1164
+Sokol Saratov,170.0,1164
+Wellington,170.0,1164
+QD Hainiu,170.0,1164
+CC Yatai,170.0,1164
+Chesterfield,167.5,1176
+Sepsi OSK,167.5,1176
+Fredrikstad,165.0,1178
+Paysandu,165.0,1178
+Red Bull,165.0,1178
+Juniors OÖ,165.0,1178
+Vegalta Sendai,165.0,1178
+Cádiz,165.0,1178
+Würzb. Kickers,165.0,1178
+Dep. Cuenca,165.0,1178
+FC Villefranche,165.0,1178
+AS Gubbio,165.0,1178
+FC Chiasso,162.5,1188
+KF Skënderbeu,162.5,1188
+RFS,162.5,1188
+Doxa Katokopias,160.0,1191
+Rad,160.0,1191
+HB Köge,160.0,1191
+Slavia Sofia,160.0,1191
+Valladolid Prom,160.0,1191
+Istanbul BBSK,160.0,1191
+Marbella,160.0,1191
+Viktoriya,160.0,1191
+Hrv Dragovoljac,160.0,1191
+Coras de Tepic,160.0,1191
+Min. Zacatecas,160.0,1191
+Zira,160.0,1191
+EN Paralimniou,160.0,1191
+Shkendija,160.0,1191
+Atlético Huila,157.5,1205
+FC Botosani,157.5,1205
+KFC Uerdingen,157.5,1205
+SSV Ulm 1846,157.5,1205
+FK Sabail,157.5,1205
+ND Gorica,157.5,1205
+Comercial-SP,157.5,1205
+FC Koper,157.5,1205
+Hallescher,157.5,1205
+Vélez,155.0,1214
+Oita Trinita,155.0,1214
+Metropolitano,155.0,1214
+Wisla Plock,155.0,1214
+Admira Wacker,155.0,1214
+H. Ashkelon,155.0,1214
+FC Twente,155.0,1214
+Oliveirense,155.0,1214
+H. Jerusalem,152.5,1222
+Saarbrücken,152.5,1222
+FC U Craiova,152.5,1222
+Sampaio-MA,150.0,1225
+Sibir,150.0,1225
+ZJ Greentown,150.0,1225
+Kuban,150.0,1225
+Al-Tai,150.0,1225
+MC Oran,150.0,1225
+Olbia,150.0,1225
+Seattle,150.0,1225
+Bohemians,150.0,1225
+GX Pingguo,150.0,1225
+Instituto ACC,150.0,1225
+Dzerzhinsk,150.0,1225
+Cherno More,150.0,1225
+Al-Okhdood,150.0,1225
+Sundowns,150.0,1225
+Wilstermann,150.0,1225
+FC Schaffhausen,147.5,1241
+FC Thun,147.5,1241
+Wolfsburg,147.5,1241
+Robur Siena,147.5,1241
+FC Prishtina,147.5,1241
+Felgueiras,147.5,1241
+Gazisehir,147.5,1241
+Mansfield Town,145.0,1248
+Akzhayik,145.0,1248
+Wanderers,145.0,1248
+Torpedo Zhodino,145.0,1248
+Metalurg Z.,145.0,1248
+Standard,142.5,1253
+Casertana,142.5,1253
+Manisaspor,142.5,1253
+Queen's Park,141.3,1256
+Grosseto,140.0,1257
+Kiryat Shmona,140.0,1257
+Chertanovo,140.0,1257
+Palestino,140.0,1257
+Jeonnam Dragons,140.0,1257
+Neuchâtel Xamax,140.0,1257
+Hapoel Haifa,140.0,1257
+W. Bremen,140.0,1257
+Örebro SK,140.0,1257
+Melbourne,140.0,1257
+Tyumen,140.0,1257
+FK Cukaricki,140.0,1257
+Tekstilshchik,137.5,1269
+Puerto Cabello,137.5,1269
+Raja Casablanca,137.5,1269
+Nieciecza,135.0,1272
+SD Aucas,135.0,1272
+Varese,135.0,1272
+SKN St. Pölten,135.0,1272
+FC Annecy,135.0,1272
+Vissel Kobe,135.0,1272
+Southend United,135.0,1272
+Adelaide United,135.0,1272
+Bourg-en-Bresse,135.0,1272
+Ermis Aradippou,135.0,1272
+Lorca,135.0,1272
+Neftchi PFK,135.0,1272
+Zalaegerszeg,132.5,1284
+FC Wil 1900,132.5,1284
+Alverca,132.5,1284
+Volga NN,132.5,1284
+Dag & Red,132.5,1284
+Quilmes,130.0,1289
+Hartlepool,130.0,1289
+Gyirmót,130.0,1289
+GKS Tychy,130.0,1289
+Sampaio-RJ,130.0,1289
+Sigma Olomouc,130.0,1289
+Beroe,130.0,1289
+Francs Borains,130.0,1289
+FC Crotone,130.0,1289
+Envigado,130.0,1289
+Al-Kholood,130.0,1289
+Gomel,127.5,1300
+Coquimbo Unido,127.5,1300
+Sandnes Ulf,125.0,1302
+CD Everton,125.0,1302
+Luch-Energia,125.0,1302
+Loko Plovdiv,125.0,1302
+FCV Farul,125.0,1302
+Libertad,125.0,1302
+União São João,125.0,1302
+Etar,125.0,1302
+Zirka,125.0,1302
+Rukh,125.0,1302
+Sariyer,122.5,1312
+Pontedera,122.5,1312
+SV Meppen,122.5,1312
+La Louvière,122.5,1312
+Copenhagen,122.5,1312
+KuPS,122.5,1312
+Accrington,122.5,1312
+Maguary,122.5,1312
+AFC Tubize,122.5,1312
+AS Béziers,120.0,1321
+Barça,120.0,1321
+Kardemir Karabük,120.0,1321
+Santa Cruz-PE,120.0,1321
+FC Voluntari,120.0,1321
+CD Morón,120.0,1321
+Irtysh,120.0,1321
+Alem. Aachen,120.0,1321
+Juventud,120.0,1321
+Ternana U.,120.0,1321
+Cianorte,120.0,1321
+O'Higgins,120.0,1321
+HN SS Longmen,120.0,1321
+US Boulogne,120.0,1321
+24 Erzincanspor,120.0,1321
+HB,120.0,1321
+Náutico,120.0,1321
+Alianza Lima,117.5,1338
+Paraná,115.0,1339
+Concarneau,115.0,1339
+Hapoel Hadera,115.0,1339
+KFCO Beerschot,115.0,1339
+UE Cornellà,115.0,1339
+NK Radomlje,115.0,1339
+Alessandria,115.0,1339
+Agrobiznes,115.0,1339
+PSTC-PR,115.0,1339
+AOK Kerkyra,115.0,1339
+CE Sabadell,115.0,1339
+Olimpo,112.5,1350
+Teplice,112.5,1350
+NK Domzale,112.5,1350
+Dundalk,112.5,1350
+FC ViOn,112.5,1350
+Kremin,111.0,1355
+FC Winterthur,110.0,1356
+Sanluqueño,110.0,1356
+Dinaz Vyshgorod,110.0,1356
+São Bento (SP),110.0,1356
+Navbahor,110.0,1356
+Apol. Kalamarias,110.0,1356
+Ethnikos,110.0,1356
+Renate,110.0,1356
+Gwangju,110.0,1356
+FC Vaslui,110.0,1356
+Kolding IF,110.0,1356
+Tromsø,110.0,1356
+UTA Arad,107.5,1368
+Volga Uljanovsk,107.5,1368
+GIF Sundsvall,107.5,1368
+Atyrau,107.5,1368
+Valur,107.5,1368
+Slovacko,107.5,1368
+Central Córdoba,105.0,1374
+Akademisk BK,105.0,1374
+Airdrieonians,105.0,1374
+Dep. La Guaira,105.0,1374
+Mersin IY,105.0,1374
+Perth Glory,105.0,1374
+Gornik Leczna,105.0,1374
+Dibba Al-Hisn,105.0,1374
+FC Wacker,105.0,1374
+Gimcheon Sangmu,105.0,1374
+Rustavi,105.0,1374
+SV Mattersburg,105.0,1374
+AOX Kissamikos,102.5,1386
+LD Alajuelense,102.5,1386
+US Créteil-L,102.5,1386
+Lommel United,100.0,1389
+LKS Lodz,100.0,1389
+Sarmiento Junin,100.0,1389
+Al-Orobah,100.0,1389
+Sonnenhof-Gr.,100.0,1389
+Belshina,100.0,1389
+AIK Freetong,100.0,1389
+CD Macará,100.0,1389
+Chiapas,100.0,1389
+Z. Sosnowiec,100.0,1389
+Cimarrones,100.0,1389
+Huachipato,100.0,1389
+Gelios Kharkiv,100.0,1389
+NK Rudes,100.0,1389
+YN Yukun,100.0,1389
+Pharco,100.0,1389
+Hammam Sousse,100.0,1389
+Fastav Zlin,100.0,1389
+FK Partizani,100.0,1389
+Granit,100.0,1389
+Corum FK,100.0,1389
+Borac Cacak,100.0,1389
+Al-Najma,100.0,1389
+Vestsjaelland,100.0,1389
+CA Unión,100.0,1389
+Dynamo 2 Kyiv,97.5,1414
+W. Mannheim,97.5,1414
+Siracusa,97.5,1414
+Anag. Karditsas,97.5,1414
+Ararat-Armenia,97.5,1414
+Veria NPS,97.5,1414
+Metalac,97.5,1414
+Jong Genk,95.0,1421
+San Martín (T),95.0,1421
+Vannes,95.0,1421
+Zeljeznicar,95.0,1421
+B. Banja Luka,95.0,1421
+Jaguares,95.0,1421
+Piast Gliwice,95.0,1421
+Teleoptik,95.0,1421
+GKS Katowice,95.0,1421
+Podbeskidzie,95.0,1421
+Chelyabinsk,95.0,1421
+MFK Mykolaiv,95.0,1421
+Kudrivka-Nyva,92.5,1433
+Jerv,92.5,1433
+Örgryte,92.5,1433
+Ural 2,92.5,1433
+Oeste,92.5,1433
+JEF Utd. Chiba,92.5,1433
+Michalovce,92.5,1433
+Aimoré,90.0,1440
+Obolon Kyiv,90.0,1440
+US Avranches,90.0,1440
+KF Egnatia,90.0,1440
+Ethn. Piraeus,90.0,1440
+Deportivo Lara,90.0,1440
+ABC,90.0,1440
+Ilves,90.0,1440
+Vozdovac,90.0,1440
+Bethlehem Steel,90.0,1440
+Start,90.0,1440
+NK Zagreb,90.0,1440
+Graficar,90.0,1440
+FK Gabala,90.0,1440
+San Jose,90.0,1440
+Vejle-Kolding,90.0,1440
+NY Red Bulls,90.0,1440
+Loudoun United,90.0,1440
+Vikt. Plzen,90.0,1440
+Danubio,90.0,1440
+Kosice,90.0,1440
+PFK Sumy,87.5,1461
+MZ Hakka,87.5,1461
+Zorya,87.5,1461
+Tokushima Vort.,87.5,1461
+FC Brügge,87.5,1461
+Panachaiki,87.5,1461
+Inter Limeira,87.5,1461
+KF Llapi,87.5,1461
+Nordsjaell.,87.5,1461
+Radnik,87.5,1461
+Angostura,86.0,1471
+Newport County,85.0,1472
+Sanf. Hiroshima,85.0,1472
+PFK Oleksandria,85.0,1472
+Varbergs BoIS,85.0,1472
+Hesperange,85.0,1472
+Helmond Sport,85.0,1472
+Harrogate Town,85.0,1472
+HN Jianye,85.0,1472
+Arezzo,85.0,1472
+Västerås SK,85.0,1472
+Stomil Olsztyn,85.0,1472
+Vitebsk,85.0,1472
+Lucchese,85.0,1472
+NT Zhiyun,85.0,1472
+SV Kapfenberg,85.0,1472
+Mladost Kakanj,85.0,1472
+FC Saxan,85.0,1472
+Karpaty,85.0,1472
+Karsiyaka,85.0,1472
+Vardar,85.0,1472
+Ferro,82.5,1492
+KS Besa,82.5,1492
+Zbrojovka Brno,82.5,1492
+Javor-Matis,82.5,1492
+Jagodina,82.5,1492
+Unterhaching,82.5,1492
+Groningen,82.5,1492
+Tecos,80.0,1499
+Amateure OÖ,80.0,1499
+M. Bnei Reineh,80.0,1499
+Bidvest Wits,80.0,1499
+SO Cholet,80.0,1499
+Bijelo Brdo,80.0,1499
+Sumgayit,80.0,1499
+Buriram Utd.,80.0,1499
+Zelez. Pancevo,80.0,1499
+CD Olimpia,80.0,1499
+CZ Mighty Lions,80.0,1499
+Celaya,80.0,1499
+Diambars,80.0,1499
+Zacatepec,80.0,1499
+Bucaspor,80.0,1499
+Hradec Kralove,80.0,1499
+Nyköbing,80.0,1499
+Sfintul Gheor.,80.0,1499
+AC Oulu,80.0,1499
+GO Audax,80.0,1499
+KFUM,80.0,1499
+Isloch,80.0,1499
+Ipatinga,80.0,1499
+FUS Rabat,80.0,1499
+Skive IK,80.0,1499
+H. Umm al-Fahm,80.0,1499
+Rimini,77.5,1525
+Veles Moscow,77.5,1525
+MFC Metalurg,77.5,1525
+Kirklarelispor,77.5,1525
+Queen o. t. S.,77.5,1525
+Macarthur,77.5,1525
+GS Kallithea,77.5,1525
+Desp. Brasil,77.5,1525
+Kerala Blasters,75.0,1533
+Khimik Dzer.,75.0,1533
+Titus Petange,75.0,1533
+Puebla,75.0,1533
+Serik Belediye,75.0,1533
+H. Petah Tikva,75.0,1533
+Daegu,75.0,1533
+Correcaminos,75.0,1533
+Gaz Metan,75.0,1533
+OFK Beograd,75.0,1533
+Ha Noi,75.0,1533
+XV Piracicaba,75.0,1533
+Bromley,75.0,1533
+HLJ Ice City,75.0,1533
+Dalkurd,75.0,1533
+FK Sevastopol,75.0,1533
+Okzhetpes,75.0,1533
+FC Vaduz,75.0,1533
+KSK Heist,75.0,1533
+Ind. Rivadavia,73.5,1552
+Mito HollyHock,72.5,1553
+Dibba Fujairah,72.5,1553
+North Texas SC,72.5,1553
+Dolgoprudnyi,72.5,1553
+UD Sanse,72.5,1553
+Potenza,72.5,1553
+B. Podgorica,72.5,1553
+FK Tuzla City,70.0,1560
+Fréjus-St-Raph.,70.0,1560
+Gangwon,70.0,1560
+CD Badajoz,70.0,1560
+JS Saoura,70.0,1560
+Brasil Pelotas,70.0,1560
+Mushuc Runa SC,70.0,1560
+CF Mounana,70.0,1560
+Tractor,70.0,1560
+Legion,70.0,1560
+FK Zemun,70.0,1560
+SAS Epinal,70.0,1560
+SC Farense,70.0,1560
+Le Puy Foot,70.0,1560
+Trento,70.0,1560
+Pribram,70.0,1560
+Darica GB,70.0,1560
+Türkgücü Münch.,70.0,1560
+Fútbol Cons.,70.0,1560
+FK Slutsk,70.0,1560
+Fostiras,70.0,1560
+Tampico Madero,70.0,1560
+Smolevichi,70.0,1560
+Alashkert,70.0,1560
+St. Pat's,70.0,1560
+AD 9 de Octubre,70.0,1560
+Bisceglie,70.0,1560
+FK Qabala,70.0,1560
+Almagro,70.0,1560
+Betis,70.0,1560
+QRM,70.0,1560
+FC Helsingør,70.0,1560
+FK Rostov 2,70.0,1560
+Kazma SC,70.0,1560
+Grödig,67.5,1594
+Western United,67.5,1594
+Ness Ziona,67.5,1594
+RB Juniors,67.5,1594
+Bayrampasa,67.5,1594
+Dessel Sport,67.5,1594
+Esperance,67.5,1594
+Inter Palmira,67.5,1594
+Ismaily,67.5,1594
+KS,65.0,1603
+FK Kalush,65.0,1603
+La Guaira,65.0,1603
+Portimonense 23,65.0,1603
+FK Senica,65.0,1603
+Hellerup IK,65.0,1603
+Carl Zeiss Jena,65.0,1603
+Solihull Moors,65.0,1603
+Al-Kahrbaa Club,65.0,1603
+AEL Kalloni,65.0,1603
+Viktoria Berlin,65.0,1603
+BATE,65.0,1603
+V. Francavilla,65.0,1603
+Cerezo Osaka,65.0,1603
+Panthrakikos,65.0,1603
+Unknown,65.0,1603
+Liepaja,65.0,1603
+Ranheim,65.0,1603
+FSK Mariupol,65.0,1603
+Nova Iguaçu-RJ,65.0,1603
+Dreams,65.0,1603
+FBC Melgar,65.0,1603
+Raya2,65.0,1603
+Doxa Dramas,65.0,1603
+Kartalspor,65.0,1603
+Spartaks,62.5,1628
+FC Aksu,62.5,1628
+Auda,62.5,1628
+Midtjylland,62.5,1628
+Sloga Meridian,62.5,1628
+Afyonspor,62.5,1628
+Noah Jurmala,62.5,1628
+Arbroath,62.5,1628
+Naestved BK,62.5,1628
+GS Ilioupolis,62.5,1628
+Karacabey Bld,62.5,1628
+Olymp. Lyon,62.5,1628
+Tanque Sisley,62.5,1628
+FC Locomotive,62.5,1628
+Monopoli,62.5,1628
+Verona,62.5,1628
+Chacarita Jrs.,60.0,1644
+Sutton Utd,60.0,1644
+Sendai Uni,60.0,1644
+Balikesirspor,60.0,1644
+ADO,60.0,1644
+Safa Beirut SC,60.0,1644
+Rukh 2 Lviv,60.0,1644
+Santo André,60.0,1644
+Zhetysu,60.0,1644
+KF Laçi,60.0,1644
+Ahly SC,60.0,1644
+Viktoria Köln,60.0,1644
+Paris 13 Atl.,60.0,1644
+Germ. Beerschot,60.0,1644
+Lorient,60.0,1644
+FC Olympic,60.0,1644
+NK Dugopolje,60.0,1644
+TB Tvøroyri,60.0,1644
+FK Metal,60.0,1644
+Alloa Athletic,60.0,1644
+Grimsby Town,60.0,1644
+Al-Kharaitiyat,60.0,1644
+Mjøndalen,60.0,1644
+AD Ceuta,60.0,1644
+Mladost,60.0,1644
+Hearts,60.0,1644
+Vasco,60.0,1644
+Hapoel Raanana,60.0,1644
+Rapid Wien,60.0,1644
+Nuremberg,60.0,1644
+Botafogo-SP,60.0,1644
+Cova Piedade,60.0,1644
+Estudiantes RC,60.0,1644
+OF Ierapetras,60.0,1644
+Confiança,60.0,1644
+Pandurii,60.0,1644
+Krasnodar 3,60.0,1644
+B.93,60.0,1644
+FK Kukësi,57.5,1682
+Pavia,57.5,1682
+Dumbarton,57.5,1682
+Lumezzane,57.5,1682
+Spartak Nalchik,57.5,1682
+Alyans,57.5,1682
+Club Africain,57.5,1682
+Clyde,57.5,1682
+Leningradets,57.5,1682
+Cove Rangers,57.5,1682
+Diyarbekir Spor,57.5,1682
+Cuneo,57.5,1682
+Figueirense,55.0,1694
+Ankaraspor,55.0,1694
+Freamunde,55.0,1694
+Loko Tashkent,55.0,1694
+Fortuna Köln,55.0,1694
+HN,55.0,1694
+Atlante,55.0,1694
+Avangard K.,55.0,1694
+RW Essen,55.0,1694
+SK Poltava,55.0,1694
+FC Lahti,55.0,1694
+Bregalnica Stip,55.0,1694
+Diadema,55.0,1694
+FC Nitra,55.0,1694
+Stuttg. Kickers,55.0,1694
+Zalgiris,55.0,1694
+Gazovik Orenburg,55.0,1694
+Spartans,55.0,1694
+Rentistas,55.0,1694
+FF Jaro,55.0,1694
+Leverkusen,55.0,1694
+Gozzano,55.0,1694
+UB Conquense,55.0,1694
+Menemenspor,55.0,1694
+Ergene Velimese,55.0,1694
+AO Kerkyra,55.0,1694
+Orenburg-2,52.5,1720
+Naftovyk,52.5,1720
+FSV Zwickau,52.5,1720
+Resistencia SC,52.5,1720
+Hoffenheim,52.5,1720
+Montrose,52.5,1720
+Falkenbergs FF,52.5,1720
+Panevėžys,52.5,1720
+Makedonija,52.5,1720
+Club Blooming,50.0,1729
+Monagas SC,50.0,1729
+Orlando Pirates,50.0,1729
+Indep. Santa Fe,50.0,1729
+Atl. Levante,50.0,1729
+Indep. Medellín,50.0,1729
+Steadfast,50.0,1729
+TJ Jinmen Tiger,50.0,1729
+Renova,50.0,1729
+All Boys,50.0,1729
+Ind. Jrs.,50.0,1729
+Aldershot,50.0,1729
+UCAM Murcia,50.0,1729
+San Francisco,50.0,1729
+Daejeon Citizen,50.0,1729
+Spartak Varna,50.0,1729
+San Antonio,50.0,1729
+Daugavpils,50.0,1729
+Técnico U.,50.0,1729
+Dep. Merlo,50.0,1729
+Omiya Ardija,50.0,1729
+MFK Vyskov,50.0,1729
+SD Luneng,50.0,1729
+Brisbane Roar,50.0,1729
+CF Peralada,50.0,1729
+Paksi,50.0,1729
+FC Sète 34,50.0,1729
+Busan IPark,50.0,1729
+CA Atenas,50.0,1729
+ACR Messina,50.0,1729
+Botev Vratsa,50.0,1729
+Kisvárda,50.0,1729
+Murom,50.0,1729
+Giana Erminio,50.0,1729
+Joinville-SC,50.0,1729
+Gefle,50.0,1729
+Zeta Golubovac,50.0,1729
+Chrobry Glogow,50.0,1729
+Drava Ptuj,50.0,1729
+San Marino,50.0,1729
+Beerschot AC,50.0,1729
+SKF Sered,50.0,1729
+Viktoria Zizkov,50.0,1729
+Olimpiets,50.0,1729
+F91 Dudelange,50.0,1729
+Stirling Albion,47.5,1774
+68 Aksaray Bld,47.5,1774
+GC Mascara,47.5,1774
+Real SC,47.5,1774
+AD Carmelita,47.5,1774
+Ancona,47.5,1774
+Tarsus IY,47.5,1774
+Gostivar,47.5,1774
+Teramo,47.5,1774
+FC Honka,47.5,1774
+VPK-Agro,47.5,1774
+Nosta,47.5,1774
+Shukura,47.5,1774
+Chemnitzer,47.5,1774
+Olomouc,45.0,1788
+Pergolettese,45.0,1788
+Rionegro Águila,45.0,1788
+Motor Lublin,45.0,1788
+Жемчужина-Сочи,45.0,1788
+JFK Ventspils,45.0,1788
+Boa Esporte,45.0,1788
+Seregno,45.0,1788
+Bugsas Spor,45.0,1788
+Al-Hamra,45.0,1788
+Lajeadense,45.0,1788
+Sheikh Russel,45.0,1788
+Audax Italiano,45.0,1788
+Al-Dhafra,45.0,1788
+Cerro Largo,45.0,1788
+USM Alger,45.0,1788
+KF Teuta,45.0,1788
+Cinfães,45.0,1788
+FC Tiraspol,45.0,1788
+Kastamonu 1966,45.0,1788
+Tristan Suarez,45.0,1788
+Donji Srem,45.0,1788
+AO Chania,45.0,1788
+AFC Eskilstuna,45.0,1788
+Tabor Sezana,45.0,1788
+Elgin City,45.0,1788
+GD Sou. Tigers,45.0,1788
+Smederevo 1924,45.0,1788
+Karvina,45.0,1788
+Bengaluru,45.0,1788
+Vorwärts Steyr,42.5,1818
+Viterbese,42.5,1818
+Santamarina,42.5,1818
+KS 2 Samara,42.5,1818
+Vianense,42.5,1818
+Seongnam,42.5,1818
+Jonava,42.5,1818
+Peterhead,42.5,1818
+PAO Rouf,42.5,1818
+Chindia,42.5,1818
+FC Edinburgh,42.5,1818
+Tsarsko Selo,42.5,1818
+Eastern Suburbs,42.5,1818
+FAC,42.5,1818
+Bath City,42.5,1818
+Sandefjord,42.5,1818
+Bassano,42.5,1818
+1.SC Znojmo,42.5,1818
+Yeni Mersin IY,42.5,1818
+Western Suburbs,42.5,1818
+Al-Jabalain,42.5,1818
+Las Palmas Atl.,42.5,1818
+Nocerina,42.5,1818
+Pro Patria,42.5,1818
+Sandecja,40.0,1842
+CS Sfaxien,40.0,1842
+FC Kaluga,40.0,1842
+Saburtalo,40.0,1842
+Nasaf Qarshi,40.0,1842
+PGS Kissamikos,40.0,1842
+CA Alvarado,40.0,1842
+Poiré-sur-Vie,40.0,1842
+Korona Kielce,40.0,1842
+Richmond,40.0,1842
+Jamshedpur,40.0,1842
+Bragantino,40.0,1842
+CD Iquique,40.0,1842
+CSF Speranta,40.0,1842
+TP Mazembe,40.0,1842
+VfR Aalen,40.0,1842
+Oaxaca,40.0,1842
+Zébra Élites,40.0,1842
+Ol. Donetsk,40.0,1842
+Torpedo Vlad.,40.0,1842
+HSK Posusje,40.0,1842
+ES Sahel,40.0,1842
+FC Drita,40.0,1842
+MAS Taborsko,40.0,1842
+FK Krupa,40.0,1842
+Dinamo Bryansk,40.0,1842
+AO Glyfadas,40.0,1842
+Portuguesa,40.0,1842
+R. Valladolid,40.0,1842
+Otelul Galati,40.0,1842
+Silivrispor,40.0,1842
+Celta Fortuna,40.0,1842
+Jeunesse Esch,40.0,1842
+JMG Abidjan,40.0,1842
+Athletic Odessa,40.0,1842
+FC Wohlen,40.0,1842
+Sanjoanense,40.0,1842
+Keshla,40.0,1842
+Kerkyraikos,40.0,1842
+Kuwait SC,40.0,1842
+Keflavík,40.0,1842
+Keciörengücü,40.0,1842
+Vorskla,40.0,1842
+Sukhothai,40.0,1842
+Mitre (SdE),40.0,1842
+Neman Grodno,40.0,1842
+Pirin,40.0,1842
+LN Tieren,40.0,1842
+Lada Togliatti,40.0,1842
+Vipers SC,40.0,1842
+SD Compostela,40.0,1842
+Besançon RC,40.0,1842
+Barakaldo CF,40.0,1842
+Barcelona EC,40.0,1842
+Guaratinguetá,40.0,1842
+Girnyk KR,40.0,1842
+Bnei Yehuda,40.0,1842
+Monarcas Morelia,40.0,1842
+Salyut Belgorod,40.0,1842
+Bastia-Borgo,40.0,1842
+Legnago,40.0,1842
+Plaza Colonia,40.0,1842
+Ruch Chorzow,40.0,1842
+Wealdstone,40.0,1842
+NA Hussein Dey,37.5,1906
+Ph. Union Acad.,37.5,1906
+FC Anyang,37.5,1906
+ACSM Poli Iasi,37.5,1906
+Kidderminster,37.5,1906
+Ararat Yerevan,37.5,1906
+Smouha,37.5,1906
+Khimik,37.5,1906
+Hekimoglu,37.5,1906
+Rapperswil-Jona,37.5,1906
+Vasas,37.5,1906
+Nyva Vinnytsya,37.5,1906
+Nyva Ternopil,37.5,1906
+Akritas Chlor.,37.5,1906
+Police Tero,37.5,1906
+Inegölspor,37.5,1906
+FC Zwolle,37.5,1906
+Forte Taganrog,37.5,1906
+NK Krka,36.0,1924
+Stenhousemuir,35.0,1925
+Novosibirsk,35.0,1925
+FC Villarreal,35.0,1925
+Syzran-2003,35.0,1925
+FK Kramatorsk,35.0,1925
+Stal Alchevsk,35.0,1925
+FAS,35.0,1925
+East Fife,35.0,1925
+2 de Mayo,35.0,1925
+A. Bucaramanga,35.0,1925
+AE Karaiskakis,35.0,1925
+AO Egaleo,35.0,1925
+Woking,35.0,1925
+Albirex Niigata,35.0,1925
+Waterford,35.0,1925
+WX Wugo,35.0,1925
+Piacenza,35.0,1925
+Armavir,35.0,1925
+Petro Luanda,35.0,1925
+Volta Redonda,35.0,1925
+Volgar-Gazprom-2,35.0,1925
+Rabotnicki,35.0,1925
+Bucaspor 1928,35.0,1925
+CD El Nacional,35.0,1925
+PFC Zvyagel,35.0,1925
+CS Constantine,35.0,1925
+Central,35.0,1925
+Oviedo Vetusta,35.0,1925
+Chester City,35.0,1925
+D. Calarasi,35.0,1925
+Duguwolofila,35.0,1925
+Dukla Prague,35.0,1925
+Düzcespor,35.0,1925
+Epicentr,35.0,1925
+St. Gallen,35.0,1925
+Qadsia SC,35.0,1925
+Hatta Club,35.0,1925
+Litex Lovech,35.0,1925
+NK Orijent 1919,35.0,1925
+Menemen Belediye,35.0,1925
+Gir. Kitakyushu,35.0,1925
+KV Turnhout,35.0,1925
+Rush. & Diamon.,35.0,1925
+Gualaceo SC,35.0,1925
+SFC Opava,35.0,1925
+Hilleröd F,35.0,1925
+Holstebro BK,35.0,1925
+Gee-Lec,35.0,1925
+Kairat Moscow,35.0,1925
+Montecasillas,35.0,1925
+Macaé,35.0,1925
+Intercity,35.0,1925
+Grazer AK 1902,35.0,1925
+Cowdenbeath,32.5,1978
+Busaiteen Club,32.5,1978
+Wadi Degla,32.5,1978
+Turgutluspor,32.5,1978
+Unione Venezia,32.5,1978
+Ros. Central,32.5,1978
+Jelgava,32.5,1978
+Beylerbeyi,32.5,1978
+IK Frej Täby,32.5,1978
+Al-Arabi,32.5,1978
+Riteriai,32.5,1978
+Estudiantes SL,32.5,1978
+Afips Afipskiy,32.5,1978
+Academica Argeș,32.5,1978
+Urozhay,32.5,1978
+Charlotte Ind.,32.5,1978
+Madura United,32.5,1978
+FC Oss,32.5,1978
+Suwon Bluewings,32.5,1978
+FK Poltava,32.5,1978
+Macclesfield,32.5,1978
+Sorrento,32.5,1978
+FC San Pedro,32.5,1978
+Shonan Bellmare,30.0,2001
+SD Leioa,30.0,2001
+AC Montichiari,30.0,2001
+Siena,30.0,2001
+Simoiben,30.0,2001
+Othellos Athien,30.0,2001
+Suduva,30.0,2001
+NK Dubrava ZG,30.0,2001
+Cork City,30.0,2001
+Antwerp,30.0,2001
+San Diego Loyal,30.0,2001
+Annan Athletic,30.0,2001
+Crucero,30.0,2001
+Dacia,30.0,2001
+LA Galaxy Acad.,30.0,2001
+Alianza Atl.,30.0,2001
+Turris,30.0,2001
+Sioni Bolnisi,30.0,2001
+Chippa United,30.0,2001
+Milano City,30.0,2001
+Karlovac 1919,30.0,2001
+St.Truiden,30.0,2001
+Fethiyespor,30.0,2001
+Bidvest Wits J.,30.0,2001
+Rudar Prijedor,30.0,2001
+Jong KVM,30.0,2001
+Fafe,30.0,2001
+BK Maxline,30.0,2001
+Braunschweig,30.0,2001
+Broad City,30.0,2001
+Auckland,30.0,2001
+Spartak Myjava,30.0,2001
+Fomat Martin,30.0,2001
+CD Fátima,30.0,2001
+Savona,30.0,2001
+PFK Zvyagel,30.0,2001
+CF Intercity,30.0,2001
+Peremoga Dnipro,30.0,2001
+Mérida AD,30.0,2001
+Atl. Ottawa,30.0,2001
+Åtvidabergs FF,30.0,2001
+Turan Tovuz,30.0,2001
+KR Reykjavík,30.0,2001
+Swope Park,30.0,2001
+Oleksandriya,30.0,2001
+SC YF Juventus,30.0,2001
+Wuppertaler SV,30.0,2001
+Akropolis IF,30.0,2001
+Akad. Togliatti,30.0,2001
+Pr. Niederkorn,30.0,2001
+El Paso,30.0,2001
+El-Kadme Acad.,30.0,2001
+The Strongest,30.0,2001
+Hearts of Oak,30.0,2001
+Gloria Buzau,30.0,2001
+Ethn. Asteras,30.0,2001
+AGMK Olmaliq,30.0,2001
+AS Rodos,30.0,2001
+Talleres,30.0,2001
+Goiás EC,30.0,2001
+OFK Olimpik,30.0,2001
+FC Buzău,30.0,2001
+AS Beauvais,30.0,2001
+Llagostera,30.0,2001
+FC Saburtalo,30.0,2001
+Talaea El Gaish,30.0,2001
+Druzhba Maikop,30.0,2001
+Marek Dupnitsa,30.0,2001
+Siroki Brijeg,30.0,2001
+Skala 1911,30.0,2001
+Rieti,30.0,2001
+Real Estelí,30.0,2001
+Al-Muharraq,30.0,2001
+Halmstads BK,30.0,2001
+Podbrezova,30.0,2001
+Podillya,30.0,2001
+Villa Española,27.5,2077
+Isparta 32 Spor,27.5,2077
+Zamora,27.5,2077
+Iskenderunspor,27.5,2077
+Westerlo,27.5,2077
+Kallon,27.5,2077
+Brora Rangers,27.5,2077
+Shakhtar 3,27.5,2077
+Istiqlol,27.5,2077
+Kaysar,27.5,2077
+Helsinki IFK,27.5,2077
+Vibonese,27.5,2077
+Lokomotiva,27.5,2077
+Zimbru Chisinau,27.5,2077
+Khimki 2,27.5,2077
+Bristol,27.5,2077
+AO Episkopi,27.5,2077
+Krymteplytsya,27.5,2077
+Sacramento,27.5,2077
+Ap. Larisas,27.5,2077
+Sparta,27.5,2077
+VfB Lübeck,27.5,2077
+RSD Alcalá,25.0,2099
+AO Kavala,25.0,2099
+Zenit Penza,25.0,2099
+Balzan,25.0,2099
+Kafue Celtic,25.0,2099
+AO Trikala,25.0,2099
+Balti,25.0,2099
+Banat Zrenjanin,25.0,2099
+SV Horn,25.0,2099
+AS Fokikos,25.0,2099
+WhiteStar Woluwe,25.0,2099
+Landskrona,25.0,2099
+Zhemchuzhyna O.,25.0,2099
+Anag.Epanomis,25.0,2099
+Liberty Oradea,25.0,2099
+Prykarpattya,25.0,2099
+Pegia 2014,25.0,2099
+SF Lotte,25.0,2099
+Sangiuliano,25.0,2099
+Asan Mugunghwa,25.0,2099
+Ypiranga-RS,25.0,2099
+Progreso,25.0,2099
+Lori Vanadzor,25.0,2099
+Volgar-Gazprom,25.0,2099
+Árabe Unido,25.0,2099
+AO Giouchtas,25.0,2099
+Forge,25.0,2099
+Batman Petrol,25.0,2099
+U. San Martín,25.0,2099
+Darlington,25.0,2099
+Delfín SC,25.0,2099
+Omonia 29 Maiou,25.0,2099
+Dnepr Smolensk,25.0,2099
+Olimp Khimki,25.0,2099
+HLJ Lava Spring,25.0,2099
+Real Monarchs,25.0,2099
+NK Zadar,25.0,2099
+Tire 1922 Spor,25.0,2099
+H. C. Sapporo,25.0,2099
+H'veen/Emmen,25.0,2099
+Guaraní,25.0,2099
+FC 08 Homburg,25.0,2099
+Guanacasteca,25.0,2099
+FC Andijon,25.0,2099
+FC Arges,25.0,2099
+Real de Banjul,25.0,2099
+Najran SC,25.0,2099
+FC KTP,25.0,2099
+Nueva Chicago,25.0,2099
+Neftchi Baku,25.0,2099
+Stormv. Telstar,25.0,2099
+Gateshead,25.0,2099
+GMG Kastamonu,25.0,2099
+GKS Wikielec,25.0,2099
+FK Turan,25.0,2099
+Ullensaker/Kisa,25.0,2099
+United Zürich,25.0,2099
+Shamakhi,25.0,2099
+CF Talavera,25.0,2099
+Uthai Thani,25.0,2099
+Seoul E-Land,25.0,2099
+Septemvri Sofia,25.0,2099
+Johor DT,25.0,2099
+Incheon Utd.,25.0,2099
+Vestri,25.0,2099
+Polissya-2,22.5,2164
+JK Trans Narva,22.5,2164
+Sestao River,22.5,2164
+Bryne,22.5,2164
+Paide,22.5,2164
+Espinho,22.5,2164
+Etimesgut Bld,22.5,2164
+B36 Tórshavn,22.5,2164
+BB Bodrumspor,22.5,2164
+Cavese,22.5,2164
+BSC YB,22.5,2164
+Van Spor FK,22.5,2164
+FC Chambly Oise,22.5,2164
+Botafogo-PB,22.5,2164
+FC Lustenau,22.5,2164
+FC Rostov 2,22.5,2164
+K'lautern,22.5,2164
+Baroka,22.5,2164
+Barrow,22.5,2164
+Schalke 04,22.5,2164
+Sogdiana,22.5,2164
+Akad Chertanovo,22.5,2164
+Trakai,22.5,2164
+S. João Ver,22.5,2164
+Dinamo-Auto,22.5,2164
+Cliftonville,22.5,2164
+NEC,22.5,2164
+Athletico,22.5,2164
+Kaspiy Aktau,22.5,2164
+Hereford Utd.,22.5,2164
+San Fernando CD,22.5,2164
+Ravenna,22.5,2164
+Levante UD Yout,22.5,2164
+KF Trepca 89,22.5,2164
+Usak Spor,21.0,2198
+RFC Lüttich,20.0,2199
+Rodina 2 Moscow,20.0,2199
+UCSA,20.0,2199
+Red Star FC 93,20.0,2199
+UD Melilla,20.0,2199
+Sutjeska Niksic,20.0,2199
+SC Veendam,20.0,2199
+Strømmen,20.0,2199
+SD Logroñés,20.0,2199
+UE Olot,20.0,2199
+Vila Real,20.0,2199
+Spennymoor Town,20.0,2199
+Retrô,20.0,2199
+Sohar SC,20.0,2199
+VPS,20.0,2199
+TSV Havelse,20.0,2199
+Sloboda Tuzla,20.0,2199
+Sl. Liberec,20.0,2199
+RBC Roosendaal,20.0,2199
+SV Manching,20.0,2199
+Sageata Navodar,20.0,2199
+YAP,20.0,2199
+Sakhalin,20.0,2199
+SJK Seinäjoki,20.0,2199
+Slough,20.0,2199
+SAFC Acad.,20.0,2199
+Sertanense,20.0,2199
+R&F,20.0,2199
+Vis Pesaro,20.0,2199
+Sogndal,20.0,2199
+Slavia,20.0,2199
+SK Tavriya,20.0,2199
+Tytan Armyansk,20.0,2199
+Santo Domingo,20.0,2199
+Karpaty Galych,20.0,2199
+FK Dolgoprudnyi,20.0,2199
+Memphis 901,20.0,2199
+FK Novgorod,20.0,2199
+E. Erokspor,20.0,2199
+Orange County,20.0,2199
+AF Elbasani,20.0,2199
+Marignane G.,20.0,2199
+Fidelis Andria,20.0,2199
+Dnyapro Mogilev,20.0,2199
+MIKA Ashtarak,20.0,2199
+M. Iturralde,20.0,2199
+Lusitânia,20.0,2199
+PAEEK Kyrenia,20.0,2199
+Future,20.0,2199
+Diagoras,20.0,2199
+Acassuso,20.0,2199
+AC Bellinzona,20.0,2199
+Aydinspor 1923,20.0,2199
+FK Indjija,20.0,2199
+EC São José,20.0,2199
+Afturelding,20.0,2199
+AS St. Rémy,20.0,2199
+Nam Dinh,20.0,2199
+Bourg-Péronnas,20.0,2199
+FC Ballkani,20.0,2199
+FC Istres,20.0,2199
+Academica Clince,20.0,2199
+FC Olt Slatina,20.0,2199
+FC Paradiso,20.0,2199
+Elite United,20.0,2199
+Deportivo,20.0,2199
+NK Aluminij,20.0,2199
+ODEK Orzhiv,20.0,2199
+FC Shkupi,20.0,2199
+Bayonne,20.0,2199
+Mosta,20.0,2199
+Mohun Bagan SG,20.0,2199
+FK Bylis,20.0,2199
+ASEC Mimosas,20.0,2199
+Eastleigh,20.0,2199
+Braintree,20.0,2199
+Louletano,20.0,2199
+PAOK,20.0,2199
+Panegialios,20.0,2199
+Atl. Baleares,20.0,2199
+Louisville City,20.0,2199
+Kongsvinger,20.0,2199
+Hayes & Yeading,20.0,2199
+Chacaritas,20.0,2199
+1º de Agosto,20.0,2199
+CS Mioveni,20.0,2199
+Las Rozas CF,20.0,2199
+1922 Konya,20.0,2199
+Ankara Demir,20.0,2199
+Amarante,20.0,2199
+Cassis Carnoux,20.0,2199
+Jeju United,20.0,2199
+Amazonas,20.0,2199
+Carabobo,20.0,2199
+Kaposvár,20.0,2199
+Alki Oroklini,20.0,2199
+Lemense-SP,20.0,2199
+Boston Utd,20.0,2199
+CD Guijuelo,20.0,2199
+CD Toledo,20.0,2199
+CP El Ejido,20.0,2199
+Gandzasar,20.0,2199
+Linfield,20.0,2199
+Audax-RJ,20.0,2199
+Al-Quwa Al-Jaw.,20.0,2199
+Dallas Academy,20.0,2199
+Paniliakos,20.0,2199
+Al-Nasr Bengh.,17.5,2306
+Karaman FK,17.5,2306
+NK Krsko,17.5,2306
+Rodina-M Moscow,17.5,2306
+JS Soualem,17.5,2306
+Southport,17.5,2306
+Alajuelense,17.5,2306
+Istanbul,17.5,2306
+Gondomar,17.5,2306
+Al-Akhdar SC,17.5,2306
+Montevarchi,17.5,2306
+Ljungskile SK,17.5,2306
+Kirsehir FSK,17.5,2306
+MLS Pool,17.5,2306
+Balkany Zorya,17.5,2306
+Sivas Belediye,17.5,2306
+Giant Brillars,17.5,2306
+Hammarby TFF,17.5,2306
+FK Jezero,17.5,2306
+Agrotikos,17.5,2306
+Maritzburg Utd.,17.5,2306
+Apollon 1926,17.5,2306
+Skoruk,17.5,2306
+Pérez Zeledón,17.5,2306
+Brage,17.5,2306
+Torpedo Armavir,17.5,2306
+Plaza Amador,17.5,2306
+OFK Petrovac,17.5,2306
+CD Alcoyano,17.5,2306
+D-2 Makhachkala,17.5,2306
+Dinamo S-Pb,17.5,2306
+Tuttocuoio,17.5,2306
+Chester,17.5,2306
+Dinamo Barnaul,17.5,2306
+Universitario,17.5,2306
+Union,17.5,2306
+Din. Stavropol,17.5,2306
+CSD Municipal,17.5,2306
+Al-Mesaimeer,15.0,2344
+B TLV Bat Yam,15.0,2344
+Leça,15.0,2344
+Levadia,15.0,2344
+Les Herbiers VF,15.0,2344
+Alanya Kestel,15.0,2344
+Leones,15.0,2344
+Pianese,15.0,2344
+Gr. Fürth,15.0,2344
+Legion-Dinamo,15.0,2344
+Graffin Vlasim,15.0,2344
+Grecia,15.0,2344
+Aubagne,15.0,2344
+Linense,15.0,2344
+UD San Fernando,15.0,2344
+SZTK,15.0,2344
+G.Birligi,15.0,2344
+Concordia,15.0,2344
+Paulista-SP,15.0,2344
+Guabirá,15.0,2344
+Curzon Ashton,15.0,2344
+Lleida Esportiu,15.0,2344
+Logroñés Prom.,15.0,2344
+Zvijezda G.,15.0,2344
+Cúcuta Dep.,15.0,2344
+Gafanha,15.0,2344
+Táchira,15.0,2344
+SSU Poli,15.0,2344
+Racing CFF,15.0,2344
+UE Costa Brava,15.0,2344
+Resende,15.0,2344
+Guillermo Brown,15.0,2344
+Sampion Celje,15.0,2344
+Sicula Leonzio,15.0,2344
+Apollon Pontou,15.0,2344
+IFK Mariehamn,15.0,2344
+III. Kerület,15.0,2344
+Iberia 1999,15.0,2344
+Pouso Alegre,15.0,2344
+Irtysh Omsk,15.0,2344
+Shamrock Rovers,15.0,2344
+Sapanca Genclik,15.0,2344
+Qyzyljar,15.0,2344
+Wa All Stars,15.0,2344
+JMG Bamako,15.0,2344
+Pro Piacenza,15.0,2344
+Casale,15.0,2344
+Unión Viera,15.0,2344
+Östers IF,15.0,2344
+IDV,15.0,2344
+Pont. Katerini,15.0,2344
+Hødd,15.0,2344
+LDU Portoviejo,15.0,2344
+Reno. Yamaguchi,15.0,2344
+Chertanovo 2,15.0,2344
+Astra Ploiesti,15.0,2344
+Krystal Kherson,15.0,2344
+Albissola,15.0,2344
+Ast. Vlachioti,15.0,2344
+Albion,15.0,2344
+Arzignano,15.0,2344
+Hampton & Rich.,15.0,2344
+Skoda Xanthi,15.0,2344
+Cherkashchyna,15.0,2344
+Harbour View,15.0,2344
+Cherk. Dnipro,15.0,2344
+Ulisses,15.0,2344
+Sangju Sangmu,15.0,2344
+Arsenal-2 Tula,15.0,2344
+Lupa Cast Rom,15.0,2344
+Tsukuba Univ.,15.0,2344
+Lupa Roma,15.0,2344
+FC Uzhgorod,15.0,2344
+Young Reds,15.0,2344
+FC Versailles,15.0,2344
+Egersund,15.0,2344
+Brasília,15.0,2344
+Barnet,15.0,2344
+Vilaverdense,15.0,2344
+Montana,15.0,2344
+Mogren,15.0,2344
+Milsami,15.0,2344
+Edinburgh City,15.0,2344
+Torquay,15.0,2344
+SKA Rostov,15.0,2344
+EA Guingamp,15.0,2344
+Ole FA,15.0,2344
+Eginiakos,15.0,2344
+Swit Szczecin,15.0,2344
+FC Sevan,15.0,2344
+Borneo,15.0,2344
+Borgo,15.0,2344
+Nazilli Belediye,15.0,2344
+Taranto,15.0,2344
+Nigde Anadolu,15.0,2344
+Tamworth,15.0,2344
+Naesby BK,15.0,2344
+Eordaikos 2007,15.0,2344
+Ripensia,15.0,2344
+TPS,15.0,2344
+NK Vitez,15.0,2344
+Thes Sport,15.0,2344
+NK Kustosija,15.0,2344
+Zaria Balti,15.0,2344
+Thróttur,15.0,2344
+Ruzomberok,15.0,2344
+FK Kaluga,15.0,2344
+Torres,15.0,2344
+Stade Briochin,15.0,2344
+Dolcan Zabki,15.0,2344
+Stadl-Paura,15.0,2344
+Fagiano Okayama,15.0,2344
+Fermana,15.0,2344
+St. Johnst.,15.0,2344
+Akhmat,15.0,2344
+Trélissac,15.0,2344
+Formentera,15.0,2344
+M. Lipetsk,15.0,2344
+Akragas,15.0,2344
+Lyn,15.0,2344
+Luçon VF,15.0,2344
+Luzern,15.0,2344
+Lusitano FCV,15.0,2344
+Lus. Lourosa,15.0,2344
+Virtus Verona,15.0,2344
+Treviso,15.0,2344
+América Premier,15.0,2344
+Dunav,15.0,2344
+Melfi,15.0,2344
+AFC Ann Arbor,15.0,2344
+Agropoli,15.0,2344
+Matera,15.0,2344
+FK Kharkiv,12.5,2476
+Sokol Kleczew,12.5,2476
+Bahia,12.5,2476
+Chuo University,12.5,2476
+Guria,12.5,2476
+FK Podgorica,12.5,2476
+Br. Mostar,12.5,2476
+Forfar Athletic,12.5,2476
+Virginia Cavs,12.5,2476
+Unia Solec,12.5,2476
+Elverum,12.5,2476
+Gambinos Stars,12.5,2476
+Bellaria IM,12.5,2476
+FC Petrzalka,12.5,2476
+Dnister,12.5,2476
+BAK FK,12.5,2476
+FC Poltava,12.5,2476
+Seraing United,12.5,2476
+Gavorrano,12.5,2476
+E. Hohkeppel,12.5,2476
+Ararat Moskau,12.5,2476
+FK Ryazan,12.5,2476
+Backa,12.5,2476
+Chernigiv,12.5,2476
+CDS Vida,12.5,2476
+FK Minsk,12.5,2476
+Caldiero,12.5,2476
+Sanat Naft,12.5,2476
+Mus 1984,12.5,2476
+Koninklijke HFC,12.5,2476
+Rosich,12.5,2476
+NK Brezice 1919,12.5,2476
+Kolkheti-1913,12.5,2476
+Sambenedettese,12.5,2476
+Kokkolan PV,12.5,2476
+Mattersburg,12.5,2476
+RC Cesena,12.5,2476
+Pohang Steelers,12.5,2476
+Zenit Izhevsk,12.5,2476
+Pontos Vit.,12.5,2476
+AD San Carlos,12.5,2476
+Obolon-Brovar,12.5,2476
+Lossiemouth,12.5,2476
+AP Brera,12.5,2476
+Karlstad BK,12.5,2476
+Loures,12.5,2476
+Pécsi MFC,12.5,2476
+Sylvia,11.0,2523
+TuS Erndtebrück,10.0,2524
+Trayal,10.0,2524
+Bursa Nilüfer,10.0,2524
+Metallurg Mosk.,10.0,2524
+Druzhba Myrivka,10.0,2524
+Fjölnir,10.0,2524
+Zhenis,10.0,2524
+Dunaújváros,10.0,2524
+Sud América,10.0,2524
+Rudar Velenje,10.0,2524
+Brönshöj BK,10.0,2524
+Düsseldorf,10.0,2524
+FC Vorkuta,10.0,2524
+BC Branco,10.0,2524
+Florø SK,10.0,2524
+Rayo,10.0,2524
+York City,10.0,2524
+Depor Fabril,10.0,2524
+S. Simitli,10.0,2524
+Fiorenzuola,10.0,2524
+Agia Napa,10.0,2524
+BK Frem,10.0,2524
+Rah Ahan,10.0,2524
+FS Stars,10.0,2524
+BKMA Yerevan,10.0,2524
+Babelsberg 03,10.0,2524
+AD Almudévar,10.0,2524
+SC Weiche 08,10.0,2524
+Babite,10.0,2524
+Tukums,10.0,2524
+Dinamo Vlad.,10.0,2524
+FK Sochi,10.0,2524
+Ottawa Fury,10.0,2524
+PAO,10.0,2524
+Zug 94,10.0,2524
+FK Rudar,10.0,2524
+Orsomarso SC,10.0,2524
+Maidstone,10.0,2524
+Triglia Rafinas,10.0,2524
+Macva,10.0,2524
+AEEK SYNKA,10.0,2524
+Stade Tunisien,10.0,2524
+Mashuk,10.0,2524
+CD Ebro,10.0,2524
+FC Sydvest,10.0,2524
+Blau Weiss Linz,10.0,2524
+NYRB Academy,10.0,2524
+AZ,10.0,2524
+Viareggio,10.0,2524
+Tanta SC,10.0,2524
+Zawisza,10.0,2524
+Tatran Presov,10.0,2524
+Elche Ilicitano,10.0,2524
+Achilles '29,10.0,2524
+Esportivo,10.0,2524
+Nest-Sotra FK,10.0,2524
+Académica,10.0,2524
+Erbaaspor,10.0,2524
+Remo,10.0,2524
+Zarkovo,10.0,2524
+Eolikos,10.0,2524
+Reggio Calabria,10.0,2524
+Thrasyvoulos,10.0,2524
+Termoli,10.0,2524
+Brabrand IF,10.0,2524
+Vereya,10.0,2524
+Tacuarembó,10.0,2524
+Barreirense,10.0,2524
+FC Buxoro,10.0,2524
+TSV Steinbach,10.0,2524
+Terrassa,10.0,2524
+Breidablik,10.0,2524
+Becej 1918,10.0,2524
+NECOss,10.0,2524
+Olimpia Grudz.,10.0,2524
+KF Vllaznia,10.0,2524
+NK Triglav,10.0,2524
+FC Petrocub,10.0,2524
+Adana 1954 FK,10.0,2524
+Olimp 2,10.0,2524
+Sūduva,10.0,2524
+T. Akcaabat FK,10.0,2524
+Edirne Bld,10.0,2524
+Bilbao,10.0,2524
+Venados,10.0,2524
+Bison,10.0,2524
+FC KIA,10.0,2524
+NPGU Makiivka,10.0,2524
+Z. Kömürspor,10.0,2524
+FC Haka,10.0,2524
+FC Groning.,10.0,2524
+Eendracht Aalst,10.0,2524
+St Albans City,10.0,2524
+Aarhus Fremad,10.0,2524
+Dep. Aragón,10.0,2524
+Charleston,10.0,2524
+Chernigiv-ShVSM,10.0,2524
+Khimik-Arsenal,10.0,2524
+Pittsburgh,10.0,2524
+Hosei Univ.,10.0,2524
+Chorrillo,10.0,2524
+Picerno,10.0,2524
+VVOG,10.0,2524
+Sirens,10.0,2524
+West Armenia,10.0,2524
+Sittard,10.0,2524
+CF Gavà,10.0,2524
+A. Salzburg,10.0,2524
+Harare City,10.0,2524
+A. Üsküdar 1908,10.0,2524
+Sancaktepe Bld,10.0,2524
+Alcmaria,10.0,2524
+Haladás,10.0,2524
+Arsenal B. T.,10.0,2524
+CD Tudelano,10.0,2524
+Alfreton,10.0,2524
+Wiener Neustadt,10.0,2524
+Igman Konjic,10.0,2524
+Kelty Hearts,10.0,2524
+Amora,10.0,2524
+Cape Town City,10.0,2524
+Punjab,10.0,2524
+Kalju,10.0,2524
+Juntendo Univ.,10.0,2524
+Pskov-747,10.0,2524
+Saturn 2,10.0,2524
+Jammerbugt,10.0,2524
+Cascavel-PR,10.0,2524
+Ilysiakos,10.0,2524
+Sestri Levante,10.0,2524
+JS Kabylie,10.0,2524
+Pro Sesto,10.0,2524
+J-Södra IF,10.0,2524
+Quick Boys,10.0,2524
+Utsiktens BK,10.0,2524
+Kauno Žalgiris,10.0,2524
+VIT/AGOVV,10.0,2524
+Keio Univ.,10.0,2524
+Aparecidense,10.0,2524
+Proleter,10.0,2524
+Aspropyrgos,10.0,2524
+Hapoel Acre,10.0,2524
+Krumovgrad,10.0,2524
+A. Selcukspor,10.0,2524
+Limianos,10.0,2524
+Csikszereda,10.0,2524
+Llaneros,10.0,2524
+SV Rödinghausen,10.0,2524
+Llaneros EF,10.0,2524
+Al-Shaab,10.0,2524
+GSP Polet,10.0,2524
+Gol Gohar,10.0,2524
+GD São-Carlense,10.0,2524
+GAIS,10.0,2524
+Pari NN 2,10.0,2524
+Luch,10.0,2524
+Luch Vladivostok,10.0,2524
+Vitória,10.0,2524
+Spfr. Siegen,10.0,2524
+MFA Munkach,10.0,2524
+Democrata GV,10.0,2524
+RSC Inter,10.0,2524
+Liberia,10.0,2524
+Gaziantep,10.0,2524
+Le Mont LS,10.0,2524
+Atzeneta UE,10.0,2524
+A. Selcukluspor,10.0,2524
+Le Havre,10.0,2524
+Wigry Suwalki,10.0,2524
+Asteras Varis,10.0,2524
+Legia,10.0,2524
+Kyzyltash,10.0,2524
+Leiknir,10.0,2524
+Sol de América,10.0,2524
+Willem II,10.0,2524
+Clodiense,10.0,2524
+RKU,10.0,2524
+Brechin City,8.8,2701
+Nuova Cosenza,7.5,2702
+Dijkse Boys,7.5,2702
+Cjarlins Muzane,7.5,2702
+Ofspor,7.5,2702
+Zvezda S-Pb,7.5,2702
+UA Horta,7.5,2702
+Thisted,7.5,2702
+Capivariano,7.5,2702
+Valle d'Aosta,7.5,2702
+Den Bosch,7.5,2702
+Penya Deportiva,7.5,2702
+Castelfranco,7.5,2702
+Tokat B. Plevne,7.5,2702
+Vera Cruz,7.5,2702
+CS Fola Esch,7.5,2702
+Chojniczanka,7.5,2702
+Condeixa,7.5,2702
+Orihuela CF,7.5,2702
+Odra Opole,7.5,2702
+Pohronie,7.5,2702
+RFCU Luxembourg,7.5,2702
+Drogheda United,7.5,2702
+UDI '19,7.5,2702
+1860 München,7.5,2702
+1.SK Prostejov,7.5,2702
+Eintracht Trier,7.5,2702
+O. Zambrow,7.5,2702
+CA Joseense,7.5,2702
+Pazarspor,7.5,2702
+Ekranas,7.5,2702
+UCV,7.5,2702
+KF Feronikeli,7.5,2702
+Histon,7.5,2702
+Stranraer,7.5,2702
+Kecskemét,7.5,2702
+Inter Allies,7.5,2702
+Montecatini,7.5,2702
+MFK Metalurg,7.5,2702
+Baltika 2,7.5,2702
+IK Oddevold,7.5,2702
+Metalurg,7.5,2702
+Met-Kuz,7.5,2702
+B. a Buggiano,7.5,2702
+Soroksár,7.5,2702
+Akademia Rostov,7.5,2702
+Qarabag,7.5,2702
+IFK,7.5,2702
+Follo FK,7.5,2702
+Academia Hagi,7.5,2702
+FK Rostov,7.5,2702
+Stenungsunds IF,7.5,2702
+Ska Brasil-SP,7.5,2702
+Komarno,7.5,2702
+Aragua,7.5,2702
+FK Ternopil,7.5,2702
+FK Uzhgorod,7.5,2702
+Airdrie United,7.5,2702
+Víkingur,7.5,2702
+Menemen FK,7.5,2702
+Forlì,7.5,2702
+Super Nova,7.5,2702
+Moura,7.5,2702
+Energiya NK,7.5,2702
+Livorno,7.5,2702
+Waseda Univ.,7.5,2702
+Boussu Dour,7.5,2702
+Nazilli Bld.,7.5,2702
+Boreham Wood,7.5,2702
+Volendam,7.5,2702
+Atlantas,7.5,2702
+Taquaritinga-SP,7.5,2702
+Juventus-SC,7.5,2702
+Junior,7.5,2702
+GC Zürich,7.5,2702
+JVC Cuijk,7.5,2702
+Sport. Cristal,7.5,2702
+Blacktown City,7.5,2702
+Vigor Carpaneto,7.5,2702
+H. Rostock,7.5,2702
+Wake Forest,7.5,2702
+Bergama Belediye,7.5,2702
+Roasso Kumamoto,7.5,2702
+Adana Demir,7.5,2702
+América-RN,7.5,2702
+Halifax Town,7.5,2702
+Shakhter P.,7.5,2702
+Kayl-Tétange,7.5,2702
+FK Vovchansk,7.5,2702
+Calahorra,7.5,2702
+Tescoma Zlin,6.0,2791
+Arendal,5.0,2792
+CSKA Sofia,5.0,2792
+Ambrosiana,5.0,2792
+América TO-MG,5.0,2792
+América-RJ,5.0,2792
+Albion Rovers,5.0,2792
+Ast.Tripoli,5.0,2792
+Welling Utd.,5.0,2792
+CSKA 1948 III,5.0,2792
+Alcione,5.0,2792
+W. Burghausen,5.0,2792
+Alzira,5.0,2792
+Altrincham,5.0,2792
+Alta,5.0,2792
+ÍBV,5.0,2792
+23 Elazig FK,5.0,2792
+Alphense Boys,5.0,2792
+Arnavutköy Bld,5.0,2792
+Alghero,5.0,2792
+A. Bielefeld,5.0,2792
+Algeciras CF,5.0,2792
+CS Uruguay,5.0,2792
+Atletico Roma,5.0,2792
+Akademia Ramzan,5.0,2792
+Aves,5.0,2792
+Villa Dálmine,5.0,2792
+Zhemchuzhina,5.0,2792
+AJEL Rufisque,5.0,2792
+AS Pizzighettone,5.0,2792
+Ypiranga-BA,5.0,2792
+Beith Juniors,5.0,2792
+Velez Mostar,5.0,2792
+Bihor Oradea,5.0,2792
+Buckie Thistle,5.0,2792
+Bishop's St.,5.0,2792
+Bo'ness United,5.0,2792
+Bogotá,5.0,2792
+Adana 01 FK,5.0,2792
+Bonsucesso-RJ,5.0,2792
+Acireale,5.0,2792
+Veracruz,5.0,2792
+Bozüyükspor,5.0,2792
+Brabant,5.0,2792
+Blyth Spartans,5.0,2792
+Adiyaman FK,5.0,2792
+Yesil Bursa,5.0,2792
+Büyük Anadolu,5.0,2792
+Worcester City,5.0,2792
+Vityaz P.,5.0,2792
+Van BBSK,5.0,2792
+Zvezda Ryazan,5.0,2792
+CD Gerena,5.0,2792
+Vit./AGOVV,5.0,2792
+CD Clan Juvenil,5.0,2792
+Zrinski Osjecko,5.0,2792
+AC Rimini,5.0,2792
+Xerez Deportivo,5.0,2792
+Akademia Loko,5.0,2792
+BK Marienlyst,5.0,2792
+AC Vila Meã,5.0,2792
+Yeelen,5.0,2792
+Virtus Bergamo,5.0,2792
+AE Mesolongiou,5.0,2792
+Agios Nikolaos,5.0,2792
+Yeni Orduspor,5.0,2792
+CA Bizertin,5.0,2792
+Alassiouty SC,5.0,2792
+Yunist Giyche,5.0,2792
+FC Vilafranca,5.0,2792
+Campobasso,5.0,2792
+Olym. Charleroi,5.0,2792
+Haro Deportivo,5.0,2792
+Heracles,5.0,2792
+Hinckley United,5.0,2792
+Huddersf.,5.0,2792
+Cambuur L.,5.0,2792
+Hyde,5.0,2792
+Real Avilés,5.0,2792
+Skovshoved,5.0,2792
+Indep'te,5.0,2792
+Ittihad Alex,5.0,2792
+Real C.,5.0,2792
+Ittihad Tanger,5.0,2792
+Oleksandriya 2,5.0,2792
+Jamba F.A.,5.0,2792
+K. Offenbach,5.0,2792
+K. Sinop Spor,5.0,2792
+Odd Grenland,5.0,2792
+Oliv. Hospital,5.0,2792
+Nuneaton,5.0,2792
+Slavia Kosice,5.0,2792
+Olymp. Volou,5.0,2792
+Fortaleza CEIF,5.0,2792
+Mirandela,5.0,2792
+Fylkir,5.0,2792
+Spartak V.,5.0,2792
+GS Marko,5.0,2792
+Oxford City,5.0,2792
+Gernika,5.0,2792
+Ostbahn XI,5.0,2792
+Haarlem,5.0,2792
+Orestis Orestiadas,5.0,2792
+Gron./Cam.,5.0,2792
+Grótta,5.0,2792
+Slovan,5.0,2792
+Gölcükspor,5.0,2792
+Ontinyent,5.0,2792
+Sloga Kraljevo,5.0,2792
+HB Tórshavn,5.0,2792
+Olympic Tbilisi,5.0,2792
+Greenock,5.0,2792
+Saturn Ramenskoe,5.0,2792
+Kastamonuspor,5.0,2792
+Santarém,5.0,2792
+Lower Hutt City,5.0,2792
+Lugo,5.0,2792
+NK Jarun,5.0,2792
+MITOS,5.0,2792
+MYPA,5.0,2792
+SD Ejea,5.0,2792
+Makói,5.0,2792
+Musselburgh Athletic,5.0,2792
+Lovech,5.0,2792
+Maranhão,5.0,2792
+Marinhense,5.0,2792
+Martina Franca,5.0,2792
+Matelica,5.0,2792
+Rot Weiss Ahlen,5.0,2792
+Meiji Uni,5.0,2792
+S. Szarowola,5.0,2792
+Merinosspor,5.0,2792
+Rupel Boom,5.0,2792
+Maras Istiklal,5.0,2792
+SV Deurne,5.0,2792
+NK Lucko,5.0,2792
+NK Vinogradar,5.0,2792
+Kemerspor 2003,5.0,2792
+Norrby,5.0,2792
+Kettering,5.0,2792
+Sant Rafel,5.0,2792
+Kirikkalegücü,5.0,2792
+Kolin,5.0,2792
+Nkufo Academy,5.0,2792
+Nigde Belediye,5.0,2792
+Neos Amfilochos,5.0,2792
+Neftochimic,5.0,2792
+Krasava,5.0,2792
+San Ignacio,5.0,2792
+Kuban Holding,5.0,2792
+Kusadasispor,5.0,2792
+Navalcarnero,5.0,2792
+La Vitréenne,5.0,2792
+Nairn County,5.0,2792
+NSÍ Runavík,5.0,2792
+Lokomotiv,5.0,2792
+Fontanafredda,5.0,2792
+Sportul Snagov,5.0,2792
+Fram Reykjavík,5.0,2792
+St. Pauli,5.0,2792
+Dobanovci,5.0,2792
+Dorchester,5.0,2792
+Pontypridd,5.0,2792
+Trelleborg,5.0,2792
+Dotieas Agias,5.0,2792
+Pontisola,5.0,2792
+Trabzon Kdz.,5.0,2792
+Podlasie B.P.,5.0,2792
+Tritium,5.0,2792
+East Kilbride,5.0,2792
+Eendr. Termien,5.0,2792
+Pierikos,5.0,2792
+Pergocrema,5.0,2792
+El Nacional,5.0,2792
+Tilykratis,5.0,2792
+Energeticianul,5.0,2792
+Energetyk,5.0,2792
+Terek,5.0,2792
+Edirnespor,5.0,2792
+Deportivo Quito,5.0,2792
+Dep. Riestra,5.0,2792
+Danbort,5.0,2792
+Unionistas CF,5.0,2792
+Castellarano,5.0,2792
+Catalcaspor,5.0,2792
+Cavalry,5.0,2792
+Quick Boys '31,5.0,2792
+Ceará,5.0,2792
+Celik Zenica,5.0,2792
+US Monastir,5.0,2792
+Cisco Roma,5.0,2792
+UR Namur,5.0,2792
+UP Langreo,5.0,2792
+Cizre Spor,5.0,2792
+Clan Juvenil,5.0,2792
+Clermont,5.0,2792
+Prialit Reutov,5.0,2792
+Crusaders,5.0,2792
+Csákvár,5.0,2792
+DYuSSh Spartak,5.0,2792
+Potros del Este,5.0,2792
+Flamengo-SP,5.0,2792
+RKSV Nuenen,5.0,2792
+Enskede IK,5.0,2792
+Telford Utd,5.0,2792
+PS Serres,5.0,2792
+FC Sochi,5.0,2792
+FC Sulzberg,5.0,2792
+PO Xylotymbou,5.0,2792
+FC Tyumen-2,5.0,2792
+PO Triglias,5.0,2792
+FK Bezanija,5.0,2792
+FK Dinamo,5.0,2792
+FK Essentuki,5.0,2792
+Radnicki Srem,5.0,2792
+FK Podolje,5.0,2792
+FK Sambir,5.0,2792
+FK Stanisic,5.0,2792
+FK Tomori Berat,5.0,2792
+FK Trostyanets,5.0,2792
+FK Viborg,5.0,2792
+Staines Town,5.0,2792
+Radzionkow,5.0,2792
+P. Niepolomice,5.0,2792
+São Joseense,5.0,2792
+Paracuellos,5.0,2792
+PZ,5.0,2792
+FC Krasniy,5.0,2792
+Erzin Spor,5.0,2792
+Erzurumspor FK,5.0,2792
+Tauro,5.0,2792
+Estr. Amadora,5.0,2792
+Etoile Carouge,5.0,2792
+Excelsior M,5.0,2792
+FA 2000,5.0,2792
+FC Llapi,5.0,2792
+FC Angré City,5.0,2792
+Mount Royal,5.0,2792
+Talasgücü Bld,5.0,2792
+Taganrog,5.0,2792
+Partizani,5.0,2792
+TSG Neustrelitz,5.0,2792
+RSL Academy,5.0,2792
+East Stirling,3.8,3034
+FC Khust,3.5,3035
+Rapids Academy,2.5,3036
+Platinum Stars,2.5,3036
+Orduspor,2.5,3036
+Pendik,2.5,3036
+Nove Mesto,2.5,3036
+Novi Banovci,2.5,3036
+Nuova Florida,2.5,3036
+AS Meteora,2.5,3036
+WA Tlemcen,2.5,3036
+Y. Altindag Bld,2.5,3036
+Gümüsordu Spor,2.5,3036
+Auckland City,2.5,3036
+Volga Tver,2.5,3036
+Sp. Kostroma,2.5,3036
+Fakel,2.5,3036
+FSC Mariupol,2.5,3036
+Strogino Moscow,2.5,3036
+FC Telavi,2.5,3036
+FC Samtredia,2.5,3036
+FC Odesa,2.5,3036
+Vikt. Köln,2.5,3036
+FC Espoo,2.5,3036
+TeBe Berlin,2.5,3036
+Tepecik Spor,2.5,3036
+El Dakhlia,2.5,3036
+Ekenäs IF,2.5,3036
+East Craigie,2.5,3036
+Brindisi,2.5,3036
+Dynamo Dushanbe,2.5,3036
+Vasalunds IF,2.5,3036
+CD Guadalajara,2.5,3036
+H Rishon leZion,2.5,3036
+Vysehrad,2.5,3036
+Gold Coast FA,2.5,3036
+Argentinos,2.5,3036
+M. City,2.5,3036
+Lolland Falster,2.5,3036
+Lokomotiv 2,2.5,3036
+Leotar Trebinje,2.5,3036
+SalPa,2.5,3036
+Kraluv Dvur,2.5,3036
+Whitecaps,2.5,3036
+Kotka TP,2.5,3036
+Kolubara,2.5,3036
+HJK Klubi 04,2.5,3036
+Sarajevo,2.5,3036
+Santa Rita-AL,2.5,3036
+Ankara Adliye,2.5,3036
+Sibir-2,2.5,3036
+Inverness,2.5,3036
+Istra,2.5,3036
+Karaköprü Bld,2.5,3036
+JFA Academy,2.5,3036
+1.FC Bocholt,2.5,3036
+KA Akureyri,2.5,3036
+KSV Oostkamp,2.5,3036
+K.Maras Belediye,2.5,3036
+military,2.0,3093
+LCS,1.0,3094
+Sultanbeyli Bld,1.0,3094
+Mattar Sailors,1.0,3094
+Valletta,1.0,3094
+VAST Mykolaiv,1.0,3094
+FC Martigues,1.0,3094
