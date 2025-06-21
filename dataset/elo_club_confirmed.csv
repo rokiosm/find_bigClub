@@ -1,0 +1,896 @@
+﻿club,elo_sum,rank
+Barcelona,1163314.68,1
+Real Madrid,1160179.2,2
+Bayern Munich,1140765.34,3
+Man United,1119351.14,4
+Chelsea,1114090.14,5
+Liverpool,1111031.43,6
+Arsenal,1109666.85,7
+Juventus,1098657.91,8
+Man City,1089166.88,9
+Ath Madrid,1086349.43,10
+Inter,1069772.61,11
+Valencia,1066866.11,12
+Porto,1066076.01,13
+Dortmund,1063536.22,14
+Milan,1062244.9,15
+Sevilla,1061468.36,16
+Paris SG,1060507.84,17
+Tottenham,1056423.54,18
+Roma,1052014.92,19
+Villarreal,1050894.55,20
+Leverkusen,1049141.28,21
+Lyon,1045083.3,22
+Benfica,1036963.64,23
+Ath Bilbao,1034797.28,24
+Sociedad,1028061.59,25
+Everton,1025266.27,26
+PSV Eindhoven,1023737.72,27
+Lazio,1023080.28,28
+Ajax,1018915.96,29
+Betis,1018649.41,30
+Newcastle,1015026.36,31
+Espanol,1009977.5,32
+Schalke 04,1009734.96,33
+Marseille,1009494.43,34
+Werder Bremen,1007870.6,35
+Lille,1007454.51,36
+Celta,1007126.46,37
+Sp Lisbon,1006092.31,38
+Wolfsburg,1004413.51,39
+Monaco,1002481.84,40
+Olympiakos,999460.35,41
+Aston Villa,996977.55,42
+Stuttgart,995950.61,43
+West Ham,994625.39,44
+Osasuna,994065.52,45
+Zenit,990404.91,46
+Atalanta,987438.7,47
+MGladbach,983873.39,48
+Ein Frankfurt,979940.21,49
+Valladolid,979697.47,50
+Rennes,979424.55,51
+Hertha,978430.8,52
+Hamburg,977238.72,53
+Levante,976805.94,54
+CSKA Moskva,974903.8,55
+Udinese,974073.64,56
+Fenerbahce,973076.54,57
+Fulham,971547.43,58
+Galatasaray,970955.07,59
+Zaragoza,968932.79,60
+Mainz,968829.04,61
+Anderlecht,967720.14,62
+Celtic,966708.4,63
+Freiburg,965471.41,64
+Feyenoord,963813.29,65
+Nice,963764.41,66
+Club Brugge,963661.2,67
+Fiorentina,959683.94,68
+Bordeaux,956768.87,69
+Getafe,956407.31,70
+Besiktas,956069.21,71
+Sp Braga,953029.68,72
+Mallorca,952966.57,73
+Torino,952784.79,74
+Bologna,952457.01,75
+Lok Moskva,952447.05,76
+Salzburg,950706.03,77
+St Etienne,950548.5,78
+Spartak Moskva,950314.82,79
+FC Koln,950242.14,80
+Sampdoria,949470.04,81
+West Brom,948190.35,82
+Sp Gijon,946881.24,83
+Malaga,946587.41,84
+Lens,946082.68,85
+Hannover,945822.17,86
+Panathinaikos,944929.18,87
+Montpellier,944850.06,88
+Middlesbrough,942080.61,89
+Nantes,942005.91,90
+Crystal Palace,939863.7,91
+AZ Alkmaar,938044.98,92
+Napoli,937568.77,93
+Cagliari,934395.66,94
+FC Kobenhavn,932296.89,95
+Lorient,929398.82,96
+Auxerre,927731.56,97
+Leicester,927167.41,98
+Nurnberg,925779.43,99
+Burnley,925363.35,100
+Bochum,920639.39,101
+Genk,920311.04,102
+Empoli,919458.73,103
+PAOK,916644.15,104
+Standard,915676.17,105
+Watford,915058.5,106
+Trabzonspor,915052.4,107
+Gent,911025.37,108
+Steaua,910929.13,109
+Wolves,906915.45,110
+Rapid Wien,905968.16,111
+Blackburn,905367.76,112
+Rosenborg,904570.03,113
+Caen,904182.0,114
+Toulouse,901962.14,115
+Genoa,898515.71,116
+Greuther Furth,897765.95,117
+Austria Wien,896868.18,118
+Elche,896482.33,119
+Utrecht,895703.67,120
+Brescia,894389.3,121
+Heerenveen,892964.42,122
+Southampton,892631.44,123
+Legia,888772.21,124
+Sturm Graz,887800.78,125
+Le Havre,886853.68,126
+Birmingham,886309.72,127
+Brondby,885355.61,128
+Midtjylland,885138.07,129
+Twente,881327.19,130
+Norwich,881206.69,131
+Metz,878086.05,132
+Parma,876882.05,133
+Ajaccio,876752.37,134
+Dynamo Moskva,875185.95,135
+Almeria,871458.74,136
+Vitesse,866035.72,137
+Guimaraes,865099.96,138
+Las Palmas,863846.57,139
+Troyes,863820.64,140
+Guingamp,862723.76,141
+La Coruna,857537.75,142
+Sochaux,857077.32,143
+Malmoe,856398.28,144
+AEK,853289.15,145
+Stoke,853116.99,146
+Tenerife,852981.2,147
+Rostov,845362.0,148
+Dinamo Bucuresti,840464.4,149
+Elfsborg,840424.93,150
+Molde,838198.87,151
+Goeteborg,835535.23,152
+Maritimo,831124.7,153
+Groningen,827763.84,154
+Odense,827543.67,155
+Leeds,825632.19,156
+Djurgarden,823369.53,157
+Charleroi,822947.03,158
+AIK,821891.29,159
+Derby,818402.69,160
+Alaves,816671.95,161
+Aalborg,816470.81,162
+Vallecano,815328.17,163
+Aberdeen,813475.57,164
+Nancy,809360.28,165
+Chievo,806011.95,166
+Viking,805865.13,167
+Gaziantepspor,796642.21,168
+Sunderland,796009.63,169
+Wisla,795629.52,170
+Rangers,793730.63,171
+Rubin Kazan,793314.31,172
+Lillestrom,791918.8,173
+Odd Grenland,790376.58,174
+Cardiff,786786.72,175
+Motherwell,783352.21,176
+Lech,783059.43,177
+Palermo,781292.26,178
+Nottm Forest,776121.08,179
+QPR,774916.36,180
+Kaiserslautern,774474.24,181
+Nordsjaelland,773092.15,182
+Kryliya Sovetov,773062.35,183
+Reading,770692.07,184
+Numancia,768044.62,185
+Verona,767156.98,186
+Brann,766132.71,187
+Clermont,764453.17,188
+Eibar,763450.68,189
+Reims,758873.75,190
+Ipswich,757397.57,191
+Hearts,753643.2,192
+Valerenga,752760.02,193
+Brest,752431.3,194
+Kilmarnock,750047.09,195
+St Pauli,747004.98,196
+Tromso,746518.92,197
+Angers,745709.62,198
+Preston,742638.84,199
+Karlsruhe,741342.88,200
+CFR Cluj,741062.91,201
+Bielefeld,740415.65,202
+Pacos Ferreira,739760.21,203
+Bari,739755.52,204
+Albacete,736674.02,205
+Hibernian,735007.6,206
+Gornik,732833.77,207
+Kalmar,724161.15,208
+Aarhus,723749.06,209
+Bastia,723646.13,210
+Augsburg,713642.84,211
+Genclerbirligi,709596.42,212
+Hoffenheim,708966.06,213
+Aris,707639.6,214
+Lubin,707594.67,215
+Santander,707379.4,216
+Strasbourg,707256.98,217
+St Truiden,705824.94,218
+Willem II,703354.79,219
+Lecce,702296.33,220
+Sheffield United,698372.64,221
+Union Berlin,693968.66,222
+Ascoli,691413.51,223
+Bolton,689793.39,224
+Haecken,688095.14,225
+Nijmegen,685049.25,226
+Hull,684924.1,227
+Stabaek,684570.02,228
+Panionios,683724.73,229
+Kayserispor,681837.18,230
+Xanthi,681313.18,231
+Dijon,679733.47,232
+Valenciennes,676678.28,233
+Boavista,675365.83,234
+Belenenses,672823.64,235
+Terek Grozny,671167.9,236
+Rio Ave,670208.52,237
+Hammarby,665846.32,238
+Sheffield Weds,661429.63,239
+Chateauroux,660816.62,240
+Helsingborg,659157.18,241
+Rapid Bucuresti,658672.46,242
+Sivasspor,658045.49,243
+Lokeren,655841.99,244
+Cordoba,654165.57,245
+Konyaspor,653532.78,246
+HJK Helsinki,651563.22,247
+Antalyaspor,642710.84,248
+Girona,642302.94,249
+OFI,638905.28,250
+Heracles,636858.55,251
+Nacional,633430.7,252
+Swansea,633314.22,253
+Setubal,633289.38,254
+Brighton,632142.54,255
+Sassuolo,631661.92,256
+Cercle Brugge,630633.59,257
+Mechelen,629549.9,258
+Millwall,628215.93,259
+Dundee United,627895.5,260
+Crotone,627639.47,261
+Modena,627620.23,262
+Stromsgodset,626953.18,263
+Randers,626495.87,264
+Munich 1860,624154.56,265
+Cracovia,623092.5,266
+Vicenza,621110.88,267
+Waregem,620991.13,268
+Atromitos,620939.73,269
+Amiens,619557.77,270
+NAC Breda,617347.19,271
+Reggina,617275.11,272
+Niort,615449.79,273
+Pogon,609730.9,274
+Cittadella,609462.59,275
+Ried,609427.99,276
+Buyuksehyr,608582.67,277
+Westerlo,607356.07,278
+Halmstad,607211.77,279
+Wigan,606688.91,280
+Slask,605049.54,281
+Bursaspor,603756.73,282
+Roda,601782.3,283
+Bodoe Glimt,599008.47,284
+Paderborn,597264.51,285
+Oerebro,594264.27,286
+Silkeborg,591793.68,287
+Norrkoeping,589805.23,288
+Coventry,587682.93,289
+Asteras Tripolis,587318.26,290
+Recreativo,585410.39,291
+Livorno,584235.81,292
+Grenoble,583361.9,293
+Ankaraguecue,582456.79,294
+Salernitana,581010.94,295
+Esbjerg,580205.33,296
+Duisburg,578172.81,297
+Laval,577511.18,298
+Fortuna Dusseldorf,577393.64,299
+Den Haag,573082.94,300
+Waalwijk,573018.1,301
+Kortrijk,571281.46,302
+Granada,569962.68,303
+Jagiellonia,569077.7,304
+Rizespor,566035.78,305
+Cadiz,565079.59,306
+Nimes,562885.4,307
+Leganes,561318.52,308
+Admira,560616.38,309
+Beerschot VA,557811.31,310
+Erzgebirge Aue,556023.79,311
+Frosinone,554818.0,312
+Bristol City,553984.59,313
+Otelul Galati,553676.28,314
+Pescara,553178.02,315
+Gil Vicente,550877.86,316
+St Johnstone,550535.59,317
+Huesca,547674.38,318
+Mouscron,546631.77,319
+FC Krasnodar,544734.41,320
+Kasimpasa,543851.95,321
+SonderjyskE,542587.76,322
+Charlton,534755.41,323
+Korona,531375.24,324
+Siena,526546.63,325
+Amkar Perm,522999.75,326
+Le Mans,521971.5,327
+Ternana,521967.53,328
+Barnsley,520775.23,329
+Beveren,517747.72,330
+Cottbus,515641.22,331
+Spezia,513916.56,332
+Aalesund,512489.51,333
+Hansa Rostock,511396.76,334
+Astra,509871.93,335
+Mattersburg,508678.57,336
+Haugesund,507031.06,337
+St Mirren,506210.25,338
+Iasi,503200.22,339
+Lechia,502355.52,340
+Sparta Rotterdam,497283.69,341
+Academica,494654.14,342
+Viborg,494120.94,343
+Murcia,489120.78,344
+Sedan,486942.4,345
+Tarragona,486060.59,346
+Catania,484964.06,347
+Portsmouth,481288.28,348
+Braunschweig,480919.79,349
+Cesena,480850.04,350
+Perugia,479437.0,351
+Oviedo,479180.37,352
+Moreirense,477879.07,353
+Alcorcon,477074.41,354
+Piast Gliwice,474830.94,355
+Giannina,471123.68,356
+Huddersfield,461126.1,357
+Zwolle,459129.33,358
+Ruch,457614.79,359
+Xerez,457045.39,360
+Bournemouth,456708.85,361
+Altach,453287.12,362
+Venezia,451032.52,363
+Gaz Metan,450826.5,364
+LASK,449786.75,365
+Iraklis,448360.67,366
+RB Leipzig,443288.23,367
+Wolfsberg,438502.78,368
+Aachen,434224.25,369
+Timisoara,432470.3,370
+Start,428530.81,371
+Levadeiakos,428227.17,372
+Sundsvall,425991.41,373
+Viitorul,424218.35,374
+Dundee,423189.59,375
+Horsens,421987.84,376
+Lierse,421614.52,377
+Sarpsborg,419427.54,378
+Plock,417891.7,379
+Craiova 1948,417636.08,380
+Denizlispor,416777.59,381
+Antwerp,412949.83,382
+Brentford,409771.8,383
+Widzew,407829.17,384
+Piacenza,404234.24,385
+Leiria,401130.77,386
+Pandurii,400290.27,387
+Anzhi,397037.75,388
+Lugo,396840.04,389
+Ingolstadt,393468.05,390
+Brasov,393461.81,391
+Panetolikos,393344.86,392
+Excelsior,392421.4,393
+Bistrita,390673.08,394
+Darmstadt,388543.05,395
+Sverdlovsk,388217.81,396
+Mirandes,385776.62,397
+Heidenheim,385589.92,398
+Istres,385312.76,399
+Inverness,381454.88,400
+Wacker Innsbruck,380675.86,401
+Lyngby,379926.02,402
+Salamanca,379898.17,403
+Sandefjord,378936.64,404
+Saturn Ramenskoje,378652.68,405
+Tours,377994.38,406
+Sandhausen,377918.86,407
+Estoril,376761.28,408
+Botosani,375517.61,409
+Gefle,372733.65,410
+Oostende,370420.76,411
+Polonia Warszawa,369173.0,412
+Rotherham,368837.31,413
+Ponferradina,365875.38,414
+Craiova,364771.84,415
+Larisa,360289.71,416
+Blackpool,358423.11,417
+Arges Pitesti,350859.0,418
+Piatra Neamt,350113.31,419
+Creteil,349421.47,420
+Ross County,348951.72,421
+Petrolul Ploiesti,345918.57,422
+Dresden,345460.5,423
+Livingston,345183.24,424
+Hercules,342657.66,425
+Malatyaspor,341358.22,426
+Tomsk,340081.85,427
+Cosenza,330938.99,428
+Graafschap,327794.55,429
+Odra Wodzislaw,325051.42,430
+Mjaellby,323576.05,431
+Sogndal,317433.39,432
+Beira Mar,317150.17,433
+Albinoleffe,316766.62,434
+Triestina,316283.15,435
+Vaslui,314327.76,436
+Kuban,314186.39,437
+Avellino,306695.13,438
+Torpedo Moskva,305402.01,439
+Alanya,304989.44,440
+Pisa,304703.39,441
+Oud-Heverlee Leuven,303535.88,442
+Lyn Oslo,303422.54,443
+Cremonese,301787.29,444
+Fredrikstad,301272.32,445
+Alanyaspor,300414.6,446
+Paris FC,299028.2,447
+Regensburg,298849.96,448
+Bergen,297042.32,449
+Hamilton,296745.98,450
+Samsunspor,295461.34,451
+Eupen,294895.14,452
+Ionikos,293899.37,453
+VVV Venlo,291815.68,454
+Ergotelis,291016.96,455
+For Sittard,289793.26,456
+Belchatow,289423.75,457
+FC Moskva,285721.65,458
+Eskisehirspor,284682.43,459
+Ufa,284453.04,460
+Gueugnon,284053.35,461
+Ankaraspor,282607.37,462
+Oberhausen,282118.67,463
+Dunfermline,281969.25,464
+Ferrol,280772.52,465
+Universitatea Cluj,279909.36,466
+Voluntari,279164.26,467
+Frankfurt FSV,277999.08,468
+GAK,277591.4,469
+Ahlen,277460.99,470
+Grodzisk,277378.78,471
+Arka,277275.93,472
+Holstein Kiel,276489.03,473
+Kuopio,276205.48,474
+Osnabruck,275925.7,475
+Luton,274873.47,476
+Portimonense,274362.37,477
+GAIS,272551.57,478
+Como,272435.06,479
+Trelleborg,271043.97,480
+Cartagena,269509.63,481
+Santa Clara,267910.27,482
+Est Amadora,267546.1,483
+Honka Espoo,267415.26,484
+Arouca,267145.66,485
+Poli Ejido,262352.38,486
+Goztep,258066.94,487
+Farul,258060.19,488
+Messina,257726.03,489
+IK Sirius,255730.05,490
+Kerkyra,254112.88,491
+Chiajna,253376.97,492
+Gornik Leczna,253373.46,493
+Haka,252447.77,494
+Oergryte,252334.86,495
+MyPa,251857.32,496
+Brommapojkarna,250138.35,497
+Benevento,250109.55,498
+Treviso,249961.99,499
+Spal,248602.91,500
+Tula,247210.41,501
+Sepsi,246776.49,502
+Novara,245363.97,503
+Akhisar Belediyespor,245197.92,504
+Karabukspor,243514.79,505
+Vejle,242227.23,506
+Castellon,239643.45,507
+Istanbulspor,237403.24,508
+Progresul,236375.51,509
+UTA Arad,235914.85,510
+Tondela,235375.97,511
+Lamia,234734.37,512
+Spartak Nalchik,234643.61,513
+Inter Turku,232827.92,514
+Ham-Kam,232380.19,515
+Kristiansund,228648.81,516
+Go Ahead Eagles,226190.32,517
+Hartberg,225900.52,518
+Barcelona B,225285.21,519
+Klagenfurt,223878.62,520
+FC Khimki,222107.87,521
+Evian Thonon Gaillard,221664.83,522
+Amica Wronki,214551.68,523
+Unterhaching,214351.7,524
+Ancona,213760.7,525
+Partick,213610.92,526
+Pasching,210558.09,527
+Plymouth Argyle,210520.61,528
+Carpi,209850.26,529
+Naval,209197.23,530
+Shinnik Jaroslawl,208928.42,531
+Arles,206987.61,532
+Grosseto,206796.54,533
+Gazelec,206366.14,534
+Padova,205194.83,535
+Manisaspor,205087.38,536
+Monza,203633.92,537
+Diyarbakirspor,202762.13,538
+Mantova,202681.16,539
+Orenburg,202234.72,540
+Virtus Entella,201845.5,541
+Famalicao,201513.18,542
+Louvieroise,200100.94,543
+Egaleo,200098.12,544
+St Poelten,198626.42,545
+Wiener Neustadt,196908.83,546
+Platanias,195663.26,547
+Rakow,195387.38,548
+Veria,194229.49,549
+Ostersund,193863.75,550
+Panthrakikos,193389.02,551
+Katowice,190773.14,552
+Bacau,189932.01,553
+Rodez,187661.99,554
+Wattens,186962.86,555
+LKS,186510.91,556
+Sportul,185927.26,557
+Villarreal B,181316.29,558
+Olhanense,180142.63,559
+Podbeskidzie,179639.33,560
+Rotor Volgograd,178623.49,561
+Trapani,178065.35,562
+Sochi,177975.8,563
+Boulogne,176697.22,564
+Hermannstadt,176157.63,565
+Urziceni,175774.68,566
+Burghausen,175671.07,567
+NFC Volos,175019.6,568
+Doncaster,174019.92,569
+Varese,173331.28,570
+Sabadell,172974.33,571
+Chaves,172543.36,572
+Atvidaberg,172156.86,573
+Crewe,172149.83,574
+Gillingham,171996.35,575
+Aves,171748.14,576
+Burgos,171210.28,577
+Roeselare,170620.99,578
+Erciyesspor,170011.48,579
+Bregenz,168872.95,580
+Roosendaal,167033.31,581
+Cambuur,166893.4,582
+Quevilly Rouen,166332.68,583
+Orleans,165771.49,584
+Targu Mures,165367.25,585
+Hobro,165000.51,586
+Pro Vercelli,164675.77,587
+Juve Stabia,162243.74,588
+St. Gilloise,161801.63,589
+Falkirk,157152.08,590
+Pau FC,155115.0,591
+Extremadura,154906.08,592
+Hatayspor,154443.44,593
+Farense,152048.32,594
+Ciudad de Murcia,151821.74,595
+Falkenbergs,151121.47,596
+Mioveni,149361.0,597
+Kalithea,148905.74,598
+Real Madrid B,148830.54,599
+Apollon,147623.39,600
+Sevilla B,146148.49,601
+Wimbledon,144533.22,602
+Rimini,144086.21,603
+Leixoes,142689.84,604
+Bradford,142060.97,605
+Stal Mielec,141616.59,606
+Wehen,138669.08,607
+Karagumruk,138378.58,608
+Akademisk,137506.08,609
+Peterboro,137021.38,610
+Fakel Voronezh,137017.42,611
+Mersin Idman Yurdu,136579.89,612
+Koblenz,136536.6,613
+Saarbrucken,136351.33,614
+Feirense,136092.28,615
+Latina,135804.73,616
+Kocaelispor,135772.74,617
+Virtus Lanciano,134747.32,618
+Elazigspor,134488.09,619
+Adanaspor,133748.63,620
+Volendam,133263.24,621
+FC Emmen,131810.35,622
+Landskrona,129603.88,623
+FC Brussels,128966.23,624
+Kapfenberg,128906.4,625
+Ad. Demirspor,127687.98,626
+Kalamaria,126999.67,627
+Magdeburg,126452.55,628
+Akratitos,125416.52,629
+Nieciecza,125030.12,630
+Oester,124572.75,631
+Catanzaro,123722.46,632
+Volga,123704.56,633
+Red Star,123002.73,634
+Warta,122672.85,635
+Varbergs,122411.28,636
+Vaasa,122197.92,637
+Nizhny Novgorod,121937.47,638
+Bytom,121679.11,639
+Mjondalen,121582.8,640
+Chindia Targoviste,120667.88,641
+Dunkerque,119867.06,642
+Panserraikos,119300.22,643
+Radomiak,117970.29,644
+Seinajoki,117687.98,645
+Badajoz,112947.13,646
+Bryne,112630.51,647
+Terrassa,111978.44,648
+Lleida,111743.01,649
+Lorca,110836.53,650
+Malaga B,110621.66,651
+Jaen,110538.56,652
+Reus Deportiu,109126.4,653
+Mannheim,108827.83,654
+Fuenlabrada,108614.55,655
+Mordovia,108401.3,656
+Reutlingen,107578.14,657
+Wurzburger Kickers,106573.16,658
+Beauvais,106198.06,659
+Ein Trier,106112.47,660
+Aalen,105854.77,661
+Vladivostok,105791.97,662
+Wasquehal,105698.05,663
+Arezzo,105675.47,664
+Scunthorpe,104226.56,665
+Walsall,103823.08,666
+Alverca,103819.9,667
+Vannes,103480.53,668
+Vizela,102409.86,669
+Grimsby,102181.22,670
+Penafiel,102161.03,671
+Offenbach,102035.53,672
+Pordenone,100810.87,673
+Groedig,100509.73,674
+Varnamo,99328.05,675
+Bourg Peronnas,98911.36,676
+Panahaiki,98002.97,677
+Gloria Buzau,97103.87,678
+Herfolge,96979.3,679
+Chalkidona,96753.6,680
+Austria Kaernten,94876.24,681
+Kallonis,94705.76,682
+Ilves Tampere,94273.51,683
+Honefoss,93858.94,684
+Casa Pia,93338.36,685
+Sudtirol,93047.16,686
+Unirea Alba Iulia,92559.02,687
+Degerfors,91343.87,688
+Sandnes,90704.23,689
+Clinceni,90326.4,690
+Lahti,90128.86,691
+Martigues,89345.59,692
+Syrianska,89276.85,693
+Annecy,88829.17,694
+Rovaniemi,88407.86,695
+Mariehamn,88348.52,696
+TPS Turku,87998.46,697
+Dender,86173.19,698
+Noworossisk,84580.22,699
+Moss,83876.84,700
+Reggiana,83403.06,701
+Uralan Elista,80501.31,702
+Compostela,76574.19,703
+Tampere,76394.3,704
+Llagostera,74607.05,705
+Pistoiese,72492.92,706
+Kavala,72343.43,707
+Andorra CF,72098.13,708
+Valence,72087.52,709
+Guadalajara,71802.72,710
+Amorebieta,71548.88,711
+Ravenna,71398.55,712
+Ibiza,70988.46,713
+Colchester,70758.5,714
+Lubeck,70735.11,715
+Hacettepespor,69077.74,716
+A. Sebatspor,69072.4,717
+Orduspor,69025.55,718
+Stockport,68797.53,719
+Den Bosch,68626.5,720
+Foggia,68511.93,721
+Salgueiros,68214.53,722
+Molenbeek,67912.01,723
+Varzim,67805.67,724
+Tambov,67756.49,725
+Libourne,67497.81,726
+Burton,67421.01,727
+Erzurum BB,67382.2,728
+Altay,66919.97,729
+Stomil,66880.11,730
+Essen,66805.37,731
+Lustenau,66685.44,732
+Ethnikos Asteras,66624.31,733
+Yozgatspor,66434.61,734
+CZ Jena,66425.9,735
+KSZO,66340.25,736
+Proodeftiki,66285.4,737
+Giresunspor,66248.0,738
+Paniliakos,65997.35,739
+Sakaryaspor,65662.35,740
+Sokol Saratov,65304.95,741
+Aalst,65233.88,742
+Chambly,64997.93,743
+Vestsjaelland,64339.97,744
+Seraing,63978.11,745
+Jiul Petrosani,63825.07,746
+HB Koge,62399.4,747
+Joenkoeping,62093.38,748
+Zawisza,61691.1,749
+Miedz Legnica,61619.02,750
+Eskilstuna,61182.08,751
+Ranheim,60833.74,752
+Sosnowiec,60447.85,753
+Ulm,59762.71,754
+Allianssi,58907.61,755
+Eldense,58786.81,756
+Plymouth,58282.0,757
+Gretna,57770.56,758
+Elversberg,57622.67,759
+Almere City,56413.75,760
+BW Linz,54363.44,761
+Puszcza Niepolomice,53585.92,762
+Jokerit,47018.18,763
+Granada 74,38278.53,764
+Volou,38110.94,765
+Algeciras,37829.2,766
+KFUM Oslo,37705.55,767
+Ath Bilbao B,37356.73,768
+Real Union,37245.79,769
+UCAM Murcia,37230.57,770
+Tosno,37164.85,771
+Alicante,37146.99,772
+Leonesa,36661.16,773
+Rayo Majadahonda,36481.82,774
+Khabarovsk,36303.12,775
+Pontevedra,35967.44,776
+Cannes,35949.89,777
+Trofense,35915.0,778
+Sociedad B,35896.78,779
+Schweinfurt,35794.35,780
+Vecindario,35790.9,781
+Yenisey,35513.03,782
+Tranmere,35440.77,783
+Novosibirsk,35434.65,784
+Alcoyano,35421.06,785
+Babelsberg,35320.42,786
+Lommel,35308.06,787
+Besancon,35169.14,788
+U.Las Palmas,35102.59,789
+Balikesirspor,34948.36,790
+Radzionkow,34748.83,791
+Uniao Madeira,34708.86,792
+Yeovil,34648.06,793
+Gallipoli,34645.11,794
+Chemnitz,34395.37,795
+Jaworzno,34281.76,796
+Portogruaro,34263.86,797
+Bucaspor,34225.54,798
+Vaesteras,34144.75,799
+Campomaiorense,34048.57,800
+Heusden Zolder,33976.88,801
+Milton Keynes Dons,33939.22,802
+Feralpisalo,33915.4,803
+Radomsko,33909.48,804
+Baltika,33897.05,805
+Kalamata,33793.99,806
+Sete,33786.46,807
+Dordrecht,33727.25,808
+Beziers,33718.99,809
+Harelbeke,33648.75,810
+Southend,33614.56,811
+Erfurt,33532.94,812
+Lecco,33522.18,813
+Umraniyespor,33444.12,814
+Alessandria,33422.48,815
+Turnu Severin,33353.73,816
+Polkowice,33353.58,817
+Mazowiecki,33275.05,818
+Siegen,33140.18,819
+Pendikspor,33075.02,820
+CA Bastia,32990.07,821
+Erzurumspor,32919.83,822
+Hvidovre,32909.72,823
+Sageata,32888.17,824
+Koge,32799.6,825
+Concarneau,32796.15,826
+Curtea de Arges,32255.9,827
+Torpedo Metallurg ZIL,32195.94,828
+Vendsyssel,32143.56,829
+Branesti,31977.11,830
+Niki Volos,31963.3,831
+Tubize,31914.84,832
+Enkoeping,31882.04,833
+Thrasyvoulos,31839.35,834
+Nocerina,31777.52,835
+Dunarea Calarasi,31645.66,836
+Corona Brasov,31641.65,837
+Frem,31611.27,838
+Gubbio,31610.03,839
+Kongsvinger,31572.7,840
+Sandecja Nowy Sacz,31568.15,841
+Otopeni,31557.85,842
+Ljungskile,31506.08,843
+Helsingor,31408.16,844
+Queen of Sth,31372.4,845
+Rocar Bucuresti,31220.26,846
+Siirt Jet-PA,31190.57,847
+Juventus Bucuresti,31169.47,848
+Assyriska,31087.33,849
+Dalkurd,30975.85,850
+Vointa Sibiu,30715.59,851
+Jerv,30537.52,852
+Athinaikos,30352.62,853
+Logrones,30242.52,854
+Jyvaeskylae,30130.39,855
+Crisul Oradea,29912.53,856
+Kifisias,29762.45,857
+Foresta Suceava,28307.25,858
+UM Timisoara,28223.25,859
+Wycombe,27380.12,860
+Doxa Dramas,26760.0,861
+Carrarese,22736.97,862
+Oxford,22511.34,863
+AVS,22286.61,864
+Preussen Munster,22125.39,865
+Eyupspor,21992.68,866
+Akron Togliatti,21300.66,867
+Motor Lublin,21076.44,868
+Bodrumspor,21072.52,869
+Dynamo Makhachkala,21049.99,870
+Corvinul Hunedoara,19271.83,871
+Unirea Slobozia,19149.43,872
+Vaestra,17240.19,873
+Lok Nizhny,16698.93,874
+Hodd,15690.4,875
+Nott'm Forest,8888.41,876
+M'gladbach,8261.13,877
+Merida,1628.57,878
+Atletico B,1562.54,879
+Toledo,1518.64,880
+Alzano,1473.8,881
+Fortuna Koeln,1450.42,882
+TeBe,1447.79,883
+Fermana,1428.63,884
+Savoia,1426.38,885
+Port Vale,1378.04,886
+Swindon,1368.68,887
+Maastricht,1364.36,888
+Cuiseaux-Louhans,1343.14,889
+Geel,1337.89,890
+Vanspor,1238.93,891
+Trikala,1227.3,892
+Resita,1178.05,893
+Onesti,1160.16,894
+Extensiv Craiova,1094.72,895
